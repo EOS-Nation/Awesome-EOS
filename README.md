@@ -1,6 +1,6 @@
-# Awesome EOS
+# Awesome EOS 😎
 
-Curated list of awesome EOS
+Curated list of awesome EOS.
 
 ## Community
 
