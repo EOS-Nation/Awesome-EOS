@@ -10,6 +10,7 @@ Curated list of awesome EOS.
 ## Community Projects
 
 - [EOS Countdown](https://eoscountdown.com/) - Until EOS.IO MainNet Launch (Created by Jason Hodges)
+- [EOS Index](https://eosindex.io) - Directory of Projects based around EOS
 
 ## Meetups
 
