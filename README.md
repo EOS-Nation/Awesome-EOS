@@ -14,8 +14,20 @@ Curated list of awesome EOS.
 
 ## Meetups
 
-- [EOS Nation - Canada](https://www.meetup.com/EOS-Nation)
-- [EOS Toronto](https://www.meetup.com/EOS-Toronto/)
+- North America
+  - Canada
+    - [EOS Nation](https://www.meetup.com/EOS-Nation) (Canada)
+    - [EOS Québec](https://www.meetup.com/EOS-Quebec/)
+    - [EOS Calgary](https://www.meetup.com/EOS_Calgary/)
+    - [EOS Toronto](https://www.meetup.com/EOS-Toronto)
+  - United States
+    - [EOS New York](https://www.meetup.com/EOS-New-York)
+- Asia
+  - South Korea
+    - [EOS Seoul](https://www.meetup.com/EOS-Seoul)
+- Europe
+  - UK
+    - [EOS London](https://www.meetup.com/EOSLONDON/)
 
 ## Videos
 
