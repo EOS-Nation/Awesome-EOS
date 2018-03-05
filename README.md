@@ -38,3 +38,9 @@ Curated list of awesome EOS.
 - [Explaining the Role of an EOS Block Producer](https://www.youtube.com/watch?v=YLt5uexD9gg)
 - [IPFS](ipfs.io)
   - [IPFS Alpha Demo](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
+
+## Block Producer Candidates
+
+- [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time
+- [EOS London](https://eos42.io/) - Empowering the Community
+- [eosDAC](http://eosdac.io/) - The Community-Owned EOS Block Producer
