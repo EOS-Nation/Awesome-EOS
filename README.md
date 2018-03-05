@@ -44,3 +44,4 @@ Curated list of awesome EOS.
 - [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time
 - [EOS London](https://eos42.io/) - Empowering the Community
 - [eosDAC](http://eosdac.io/) - The Community-Owned EOS Block Producer
+- [EOSIO](http://eosio.se/) - A philanthropic block producer
