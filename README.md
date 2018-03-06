@@ -36,7 +36,7 @@ Curated list of awesome EOS.
 
 ## EOS related Content
 
-PRE-EOS
+# PRE-EOS
 
  - [Feb 2014 - Dan Larimer and Charles Hoskinson Discuss the Future of Crypto](https://www.youtube.com/watch?v=w-9miCOsg4g)
  - [April 2014 - Dan Larimer Asks the Tough Questions About Ethereum to Vitalik Buterin](https://www.youtube.com/watch?v=mP82XmUNgNM)
