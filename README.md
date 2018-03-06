@@ -24,6 +24,7 @@ Curated list of awesome EOS.
     - [EOS Québec](https://www.meetup.com/EOS-Quebec/)
     - [EOS Calgary](https://www.meetup.com/EOS_Calgary/)
     - [EOS Toronto](https://www.meetup.com/EOS-Toronto)
+    - [EOS Waterloo](https://www.meetup.com/EOS-Waterloo/)
   - United States
     - [EOS New York](https://www.meetup.com/EOS-New-York)
 - Asia
