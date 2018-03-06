@@ -1,4 +1,4 @@
-# Awesome EOS 😎
+# Awesome EOS1 😎
 
 Curated list of awesome EOS.
 
