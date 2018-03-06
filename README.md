@@ -94,6 +94,20 @@ Curated list of awesome EOS.
  - [Feb 2018 - Article - Bancor to Support EOS.io Blockchain](https://themerkle.com/bancor-to-support-eos-io-blockchain/)
 
 
+## Token Registration Step by Step guides 
+
+ 1. [EOS Balance and public key checking tool]https://www.eosauthority.com/
+ 2. [How your EOS Tokens move from Ethereum to the EOS blockchain](https://medium.com/@eosforumorg/how-your-eos-tokens-move-from-ethereum-to-the-eos-blockchain-dafd8448a375)
+ 3. [Using MyEtherWallet (Trezor, Ledger Nano, and others)
+  - [Steemit guide by Sandwich](https://steemit.com/eos/@sandwich/how-to-update-the-eos-public-key-mapped-registered-to-your-ethereum-wallet-with-myetherwallet-mew)
+  - [YouTube Guide](https://www.youtube.com/watch?v=3mgRCta3K1k)
+ 4. [Using MetaMask](https://www.youtube.com/watch?v=V2oU8pZgV2M)
+ 5. Using Exodus Wallet
+  - [Exodus Guide](https://support.exodus.io/article/65-i-ve-received-eos-tokens-in-exodus-how-do-i-register-them)
+  - [Exodus YouTube Guide](https://www.youtube.com/watch?v=ahT-kV2A8io)
+ 6. [Offline Private and Public Keypair Generator for registrering tokens](https://www.reddit.com/r/eos/comments/7v4r4d/eos_offline_private_and_public_key_pair_generator/)
+
+
 
 - [Explaining the Role of an EOS Block Producer](https://www.youtube.com/watch?v=YLt5uexD9gg)
 - [IPFS](ipfs.io)
