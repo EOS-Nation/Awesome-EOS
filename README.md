@@ -93,7 +93,6 @@ Curated list of awesome EOS.
  - [Feb 2018 - EOS an Introduction with Thomas Cox and Sam Kazemian](https://www.youtube.com/watch?v=ssMGYH_PyN4)
  - [Feb 2018 - Article - Bancor to Support EOS.io Blockchain](https://themerkle.com/bancor-to-support-eos-io-blockchain/)
 
-
 ## Token Registration Step by Step guides 
 
  1. [EOS Balance and public key checking tool](https://www.eosauthority.com/)
@@ -107,11 +106,13 @@ Curated list of awesome EOS.
     - [Exodus YouTube Guide](https://www.youtube.com/watch?v=ahT-kV2A8io)
  6. [Offline Private and Public Keypair Generator for registrering tokens](https://www.reddit.com/r/eos/comments/7v4r4d/eos_offline_private_and_public_key_pair_generator/)
 
+## Block Producer info
 
-
-- [Explaining the Role of an EOS Block Producer](https://www.youtube.com/watch?v=YLt5uexD9gg)
-- [IPFS](ipfs.io)
-  - [IPFS Alpha Demo](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
+ 1. [Announcement: Grading Criteria for EOS Block Producers in March 7 Report](https://steemit.com/eos/@eosgo/announcement-grading-criteria-for-eos-block-producers-in-march-7-report)
+ 2. [Block Producers Report Feedback](https://docs.google.com/forms/d/e/1FAIpQLScH9O0l2EiQA6DypukKxySKJ7_VAnzdInXVIZ-x9aiJ6ZEPDA/viewform)
+ 3. [xplaining the Role of an EOS Block Producer](https://www.youtube.com/watch?v=YLt5uexD9gg)
+ 4. [IPFS](ipfs.io)
+    - [IPFS Alpha Demo](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
 
 ## Block Producer Candidates
 
