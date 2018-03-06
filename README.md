@@ -49,6 +49,7 @@ Curated list of awesome EOS.
  - [Feb 2016 - Brock Pierce on Protocol, Scalability, Use Cases and the Future](https://www.youtube.com/watch?v=BdgUxn14Kvs)
  - [March 2016 - Brock Pierce: From Digital Goods to Digital Currency](https://www.youtube.com/watch?v=8HJvDzgfvh0&index=72&list=PUh-0T48JrvvmKDX41aWB_Vg)
  - [Oct 2016 - Ian Grigg now part of EOS: Ricardian Contracts and Digital Assets Prehistory](https://www.youtube.com/watch?v=wokvO1ptE1k)
+
 ### EOS
 
  - [May 2017 - EOS Consensus Presentation - Dan Larimer introduces EOS](https://www.youtube.com/watch?v=MUZWZj1pu94&t=1874s)
@@ -64,7 +65,7 @@ Curated list of awesome EOS.
  - [Sept 2017 - Prime Sectors for the Next Wave of Blokchain Adoption Panel with Brendan Blumer](https://www.youtube.com/watch?v=-FgTd6TlAx4&feature=share)
  - [Sept 2017 - The Governed Blockchain by Ian Grigg](https://www.youtube.com/watch?v=qS5a_yS5NXo&feature=share)
  - [Sept 2017 - Brock Pierce Keynote](https://www.youtube.com/watch?v=3e3Sxn4fj8o)
- - [Oct 2017 - Article - Block.One CEO Brendan Blumer Announces $1 Billion in capital for EOS Projects - BREAKING: Block.one CEO Brendan Blumer Announces $1 Billion in Capital for EOS Projects](https://cryptovest.com/news/breaking-blockone-ceo-brendan-blumer-announces-1-billion-in-capital-for-eos-projects/)
+ - [Oct 2017 - Article - Block.One CEO Brendan Blumer Announces $1 Billion in capital for EOS Projects](https://cryptovest.com/news/breaking-blockone-ceo-brendan-blumer-announces-1-billion-in-capital-for-eos-projects/)
  - [Oct 2017 - Article - Dan Larimer targeting sub latency in EOS](https://cryptocoin.news/news/ethereum/dan-larimer-creator-of-the-fastest-blockchains-now-targeting-sub-second-latency-in-eos-2577/)
  - [Oct 2017 - Future of ICOs & Cryptocurrency with Brock Pierce](https://www.youtube.com/watch?v=ShXMEzoZ7TM)
  - [Oct 2017 - Dan Larimer with Jeff Berwick on the Future of EOS and Decentralized Applications](https://www.youtube.com/watch?v=6cDTeIycI6c)
