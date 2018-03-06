@@ -121,7 +121,7 @@ Curated list of awesome EOS.
 ## Block Producer Candidates
 
  1. [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time
-    - [Facebook](https://www.facebook.com/groups/EOSNation/) [Steemit](https://steemit.com/@daverex)
+    - [Facebook](https://www.facebook.com/groups/EOSNation/)[/Steemit](https://steemit.com/@daverex)[/GitHub](https://github.com/EOS-Nation)
  2. [EOS New York](https://www.eosnewyork.io/) - Everything a block away
  3. [EOS London](https://eos42.io/) - Empowering the Community
  4. [eosDAC](http://eosdac.io/) - The Community-Owned EOS Block Producer
