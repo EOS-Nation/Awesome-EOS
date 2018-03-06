@@ -93,6 +93,10 @@ Curated list of awesome EOS.
  - [Feb 2018 - EOS an Introduction with Thomas Cox and Sam Kazemian](https://www.youtube.com/watch?v=ssMGYH_PyN4)
  - [Feb 2018 - Article - Bancor to Support EOS.io Blockchain](https://themerkle.com/bancor-to-support-eos-io-blockchain/)
 
+### EOS Go
+ 1. [EOS Go YouTube Channel](https://www.youtube.com/channel/UC0fwWI2RBBtEIYIP6fH68XQ)
+ 
+
 ## Token Registration Step by Step guides 
 
  1. [EOS Balance and public key checking tool](https://www.eosauthority.com/)
@@ -110,13 +114,16 @@ Curated list of awesome EOS.
 
  1. [Announcement: Grading Criteria for EOS Block Producers in March 7 Report](https://steemit.com/eos/@eosgo/announcement-grading-criteria-for-eos-block-producers-in-march-7-report)
  2. [Block Producers Report Feedback](https://docs.google.com/forms/d/e/1FAIpQLScH9O0l2EiQA6DypukKxySKJ7_VAnzdInXVIZ-x9aiJ6ZEPDA/viewform)
- 3. [xplaining the Role of an EOS Block Producer](https://www.youtube.com/watch?v=YLt5uexD9gg)
+ 3. [Explaining the Role of an EOS Block Producer](https://www.youtube.com/watch?v=YLt5uexD9gg)
  4. [IPFS](ipfs.io)
     - [IPFS Alpha Demo](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
 
 ## Block Producer Candidates
 
-- [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time
-- [EOS London](https://eos42.io/) - Empowering the Community
-- [eosDAC](http://eosdac.io/) - The Community-Owned EOS Block Producer
-- [EOSIO](http://eosio.se/) - A philanthropic block producer
+ 1. [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time
+    - [Facebook](https://www.facebook.com/groups/EOSNation/) [Steemit](https://steemit.com/@daverex)
+ 2. [EOS New York](https://www.eosnewyork.io/) - Everything a block away
+ 3. [EOS London](https://eos42.io/) - Empowering the Community
+ 4. [eosDAC](http://eosdac.io/) - The Community-Owned EOS Block Producer
+ 5. [EOSIO](http://eosio.se/) - Changing the World one Block at a time
+- 
