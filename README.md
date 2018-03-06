@@ -2,6 +2,8 @@
 
 Curated list of awesome EOS.
 
+> AKA "The EOS Bible"
+
 ## Official
 
 - [EOS.io](https://eos.io)
