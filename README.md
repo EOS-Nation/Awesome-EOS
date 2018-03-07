@@ -120,18 +120,22 @@ Send PM to Vincent Grenier on EOS Nation Facebook group if you want us to add st
 
 ## Block Producer info
 
- 1. [Announcement: Grading Criteria for EOS Block Producers in March 7 Report](https://steemit.com/eos/@eosgo/announcement-grading-criteria-for-eos-block-producers-in-march-7-report)
- 2. [Block Producers Report Feedback](https://docs.google.com/forms/d/e/1FAIpQLScH9O0l2EiQA6DypukKxySKJ7_VAnzdInXVIZ-x9aiJ6ZEPDA/viewform)
- 3. [Explaining the Role of an EOS Block Producer](https://www.youtube.com/watch?v=YLt5uexD9gg)
- 4. [IPFS](ipfs.io)
+- [Announcement: Grading Criteria for EOS Block Producers in March 7 Report](https://steemit.com/eos/@eosgo/announcement-grading-criteria-for-eos-block-producers-in-march-7-report)
+- [Block Producers Report Feedback](https://docs.google.com/forms/d/e/1FAIpQLScH9O0l2EiQA6DypukKxySKJ7_VAnzdInXVIZ-x9aiJ6ZEPDA/viewform)
+- [Explaining the Role of an EOS Block Producer](https://www.youtube.com/watch?v=YLt5uexD9gg)
+- [IPFS](ipfs.io)
     - [IPFS Alpha Demo](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
 
-## Block Producer Candidates
+## Block Producer Candidates (BPC)
 
- 1. [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time
-    - [Facebook](https://www.facebook.com/groups/EOSNation/)[/Steemit](https://steemit.com/@daverex)[/GitHub](https://github.com/EOS-Nation)
- 2. [EOS New York](https://www.eosnewyork.io/) - Everything a block away
- 3. [EOS London](https://eos42.io/) - Empowering the Community
- 4. [eosDAC](http://eosdac.io/) - The Community-Owned EOS Block Producer
- 5. [EOSIO](http://eosio.se/) - Changing the World one Block at a time
-- 
+- [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time
+  - [Facebook](https://www.facebook.com/groups/EOSNation/)[/Steemit](https://steemit.com/@daverex)[/GitHub](https://github.com/EOS-Nation)
+- [EOS New York](https://www.eosnewyork.io/) - Everything a block away
+- [EOS London](https://eos42.io/) - Empowering the Community
+- [eosDAC](http://eosdac.io/) - The Community-Owned EOS Block Producer
+- [EOSIO](http://eosio.se/) - Changing the World one Block at a time
+- [SaltBlock](https://www.saltblock.io/home)
+- [EOS Shenzhen](https://eoshenzhen.io/) - Shenzhen is Asia's Silicon Valley
+- [EOS UNION](http://www.eos.ren/) - Make EOS Great, Make Yourself Great
+
+
