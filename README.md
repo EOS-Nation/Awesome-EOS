@@ -134,8 +134,13 @@ Send PM to Vincent Grenier on EOS Nation Facebook group if you want us to add st
 - [EOS London](https://eos42.io/) - Empowering the Community
 - [eosDAC](http://eosdac.io/) - The Community-Owned EOS Block Producer
 - [EOSIO](http://eosio.se/) - Changing the World one Block at a time
+- [EOSYS](http://eosys.io/) - AT DAWN,  LOOK TO THE EAST
 - [SaltBlock](https://www.saltblock.io/home)
 - [EOS Shenzhen](https://eoshenzhen.io/) - Shenzhen is Asia's Silicon Valley
 - [EOS UNION](http://www.eos.ren/) - Make EOS Great, Make Yourself Great
-
-
+- [EOS Detroit](http://eosdetroit.com/)
+- [EOS SLC](http://www.eosslc.com/)
+- [Crypto Lions](http://cryptolions.io/)
+- [EOS Green](http://eosgreen.io/)
+- [EOS Oklahoma](https://eosoklahoma.com/)
+- [EOS Nairobi](http://eosnairobi.io/)
