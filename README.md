@@ -9,7 +9,8 @@ Send PM to Vincent Grenier on EOS Nation Facebook group if you want us to add st
 
 - [EOS.io](https://eos.io)
 - [Block.one](https://block.one)
-- [EOS Technical Whitepaper and RoadMap](https://github.com/EOSIO/Documentation) [EOS Storage Whitepaper](https://github.com/EOSIO/Documentation/blob/master/EOS.IO%20Storage.pdf)
+- [EOS Technical Whitepaper and RoadMap](https://github.com/EOSIO/Documentation) 
+- [EOS Storage Whitepaper](https://github.com/EOSIO/Documentation/blob/master/EOS.IO%20Storage.pdf)
 
 
 ## Community Projects
@@ -33,6 +34,7 @@ Send PM to Vincent Grenier on EOS Nation Facebook group if you want us to add st
     - [EOS Waterloo](https://www.meetup.com/EOS-Waterloo/)
   - United States
     - [EOS New York](https://www.meetup.com/EOS-New-York)
+    - [EOS Denver](https://www.meetup.com/EOSDenver/)
 - Asia
   - South Korea
     - [EOS Seoul](https://www.meetup.com/EOS-Seoul)
