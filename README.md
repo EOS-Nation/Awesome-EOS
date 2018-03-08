@@ -18,6 +18,10 @@ Send PM to Vincent Grenier on EOS Nation Facebook group if you want us to add st
 - [EOS Countdown](https://eoscountdown.com/) - Until EOS.IO MainNet Launch (Created by Jason Hodges)
 - [EOS Index](https://eosindex.io) - Directory of Projects based around EOS
 
+## YouTube Channels
+
+- [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg)
+
 ## Community Forums
 
 - [EOS Go](https://forums.eosgo.io/)
