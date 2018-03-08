@@ -3,7 +3,6 @@
 Curated list of awesome EOS.
 
 > AKA "The EOS Bible"
-Send PM to Vincent Grenier on EOS Nation Facebook group if you want us to add stuff to this list or want to participate in growing the list.
 
 ## Official
 
