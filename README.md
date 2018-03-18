@@ -104,6 +104,8 @@ Curated list of awesome EOS.
  - [Feb 2018 - Yvan on Tech - Dan Larimer interview](https://www.youtube.com/watch?v=o7HQlcl-LlQ&t=2s)
  - [Feb 2018 - EOS an Introduction with Thomas Cox and Sam Kazemian](https://www.youtube.com/watch?v=ssMGYH_PyN4)
  - [Feb 2018 - Article - Bancor to Support EOS.io Blockchain](https://themerkle.com/bancor-to-support-eos-io-blockchain/)
+ - [Mar 2018 - EOS Rise West 2018 pt 1](https://dlive.io/video/eosdallas/06979ad0-28e9-11e8-a5a6-dd5b02004a6a)
+ - [Mar 2018 - EOS Rise West 2018 pt 2](https://dlive.io/video/eosdallas/eb946010-28ed-11e8-a5a6-dd5b02004a6a)
 
 ### EOS Go
  1. [EOS Go YouTube Channel](https://www.youtube.com/channel/UC0fwWI2RBBtEIYIP6fH68XQ)
