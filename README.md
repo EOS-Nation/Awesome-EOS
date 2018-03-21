@@ -109,6 +109,7 @@ Curated list of awesome EOS.
  - [Mar 2018 - EOS Rise West 2018 pt 1](https://dlive.io/video/eosdallas/06979ad0-28e9-11e8-a5a6-dd5b02004a6a)
  - [Mar 2018 - EOS Rise West 2018 pt 2](https://dlive.io/video/eosdallas/eb946010-28ed-11e8-a5a6-dd5b02004a6a)
  - [Mar 2018 - Dan Larimer speech at Virginia Tech](https://steemit.com/eos/@nelizaldet/dan-larimer-speak-on-eos-march-20-2018)
+ - [Mar 2018 - Development of EOS.IO Projects in Europe](https://medium.com/@eosio/finlab-ag-and-block-one-36cf89e8d17a)
 
 ### EOS Go
  1. [EOS Go YouTube Channel](https://www.youtube.com/channel/UC0fwWI2RBBtEIYIP6fH68XQ)
