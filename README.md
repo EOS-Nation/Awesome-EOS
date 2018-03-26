@@ -14,14 +14,10 @@ Curated list of awesome EOS.
 
 ## Community Projects
 
-- [EOS Countdown](https://eoscountdown.com/) - Until EOS.IO MainNet Launch (Created by Jason Hodges)
 - [EOS Index](https://eosindex.io) - Directory of Projects based around EOS
+- [EOS Countdown](https://eoscountdown.com/) - Until EOS.IO MainNet Launch (Created by Jason Hodges)
 - [EOS Drops](https://www.eosdrops.io/) - A Collection of EOS.IO Projects "Air Dropping" Tokens
 - [Block'tivity](https://blocktivity.info/) - The real value of Blockchains
-
-## YouTube Channels
-
-- [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg)
 
 ## Community Forums
 
@@ -111,10 +107,15 @@ Curated list of awesome EOS.
  - [Mar 2018 - EOS Rise West 2018 pt 2](https://dlive.io/video/eosdallas/eb946010-28ed-11e8-a5a6-dd5b02004a6a)
  - [Mar 2018 - Dan Larimer speech at Virginia Tech](https://steemit.com/eos/@nelizaldet/dan-larimer-speak-on-eos-march-20-2018)
  - [Mar 2018 - Development of EOS.IO Projects in Europe](https://medium.com/@eosio/finlab-ag-and-block-one-36cf89e8d17a)
+ - [Feb 2018 - FRENCH - EOS - La blockchain du futur](https://www.youtube.com/watch?v=K4s4Tl6zqcw&t=802s)
 
-### EOS Go
+## YouTube Channels
+
  1. [EOS Go YouTube Channel](https://www.youtube.com/channel/UC0fwWI2RBBtEIYIP6fH68XQ)
- 
+ 2. [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg)
+ 3. [Clay Albright](https://www.youtube.com/channel/UCh-UuMD55GGfqN8flGYzGpg)
+ 4. [The Awakenment](https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag)
+ 5. [Yvan on Tech](https://www.youtube.com/user/LiljeqvistIvan)
 
 ## Token Registration Step by Step guides 
 
@@ -139,19 +140,18 @@ Curated list of awesome EOS.
 
 ## Block Producer Candidates (BPC)
 
-- [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time
-  - [Facebook](https://www.facebook.com/groups/EOSNation/)[/Steemit](https://steemit.com/@daverex)[/GitHub](https://github.com/EOS-Nation)
-- [EOS New York](https://www.eosnewyork.io/) - Everything a block away
-- [EOS London](https://eos42.io/) - Empowering the Community
-- [eosDAC](http://eosdac.io/) - The Community-Owned EOS Block Producer
-- [EOSIO](http://eosio.se/) - Changing the World one Block at a time
-- [EOSYS](http://eosys.io/) - AT DAWN,  LOOK TO THE EAST
-- [SaltBlock](https://www.saltblock.io/home)
-- [EOS Shenzhen](https://eoshenzhen.io/) - Shenzhen is Asia's Silicon Valley
-- [EOS UNION](http://www.eos.ren/) - Make EOS Great, Make Yourself Great
-- [EOS Detroit](http://eosdetroit.com/)
-- [EOS SLC](http://www.eosslc.com/)
-- [Crypto Lions](http://cryptolions.io/)
-- [EOS Green](http://eosgreen.io/)
-- [EOS Oklahoma](https://eosoklahoma.com/)
-- [EOS Nairobi](http://eosnairobi.io/)
+1. [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time [Facebook](https://www.facebook.com/groups/EOSNation/)[/Steemit](https://steemit.com/@daverex)[/GitHub](https://github.com/EOS-Nation) [/Youtube](https://www.youtube.com/channel/UCXgAY9DyooykrubRXw3xK1g/featured)
+2. [EOS New York](https://www.eosnewyork.io/) - Everything a block away
+3. [EOS London](https://eos42.io/) - Empowering the Community
+4. [eosDAC](http://eosdac.io/) - The Community-Owned EOS Block Producer
+5. [EOSIO](http://eosio.se/) - Changing the World one Block at a time
+6. [EOSYS](http://eosys.io/) - AT DAWN,  LOOK TO THE EAST
+7. [SaltBlock](https://www.saltblock.io/home)
+8. [EOS Shenzhen](https://eoshenzhen.io/) - Shenzhen is Asia's Silicon Valley
+9. [EOS UNION](http://www.eos.ren/) - Make EOS Great, Make Yourself Great
+10.[EOS Detroit](http://eosdetroit.com/)
+11.[EOS SLC](http://www.eosslc.com/)
+12.[Crypto Lions](http://cryptolions.io/)
+13.[EOS Green](http://eosgreen.io/)
+14.[EOS Oklahoma](https://eosoklahoma.com/)
+15.[EOS Nairobi](http://eosnairobi.io/)
