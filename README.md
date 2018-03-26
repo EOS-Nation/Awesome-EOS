@@ -18,6 +18,7 @@ Curated list of awesome EOS.
 - [EOS Countdown](https://eoscountdown.com/) - Until EOS.IO MainNet Launch (Created by Jason Hodges)
 - [EOS Drops](https://www.eosdrops.io/) - A Collection of EOS.IO Projects "Air Dropping" Tokens
 - [Block'tivity](https://blocktivity.info/) - The real value of Blockchains
+- [EOS Authority](https://eosauthority.com/) - This tool will also help you make sure that the public key with EOS is also registered correctly.
 
 ## Community Forums
 
