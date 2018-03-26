@@ -111,7 +111,7 @@ Curated list of awesome EOS.
 
 ## YouTube Channels
 
- 1. [EOS Go YouTube Channel](https://www.youtube.com/channel/UC0fwWI2RBBtEIYIP6fH68XQ)
+ 1. [EOS Go](https://www.youtube.com/channel/UC0fwWI2RBBtEIYIP6fH68XQ)
  2. [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg)
  3. [Clay Albright](https://www.youtube.com/channel/UCh-UuMD55GGfqN8flGYzGpg)
  4. [The Awakenment](https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag)
@@ -140,7 +140,7 @@ Curated list of awesome EOS.
 
 ## Block Producer Candidates (BPC)
 
-1. [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time [Facebook](https://www.facebook.com/groups/EOSNation/)[/Steemit](https://steemit.com/@daverex)[/GitHub](https://github.com/EOS-Nation) [/Youtube](https://www.youtube.com/channel/UCXgAY9DyooykrubRXw3xK1g/featured)
+1. [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time [Facebook](https://www.facebook.com/groups/EOSNation/)[/Steemit](https://steemit.com/@daverex)[/GitHub](https://github.com/EOS-Nation)[/Youtube](https://www.youtube.com/channel/UCXgAY9DyooykrubRXw3xK1g/featured)
 2. [EOS New York](https://www.eosnewyork.io/) - Everything a block away
 3. [EOS London](https://eos42.io/) - Empowering the Community
 4. [eosDAC](http://eosdac.io/) - The Community-Owned EOS Block Producer
