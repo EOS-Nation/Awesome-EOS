@@ -124,35 +124,34 @@ Curated list of awesome EOS.
 
 ## Steemit Accounts to follow
 
- 1. [Daniel Larimer Account #1](https://steemit.com/@dantheman)[/Account #2](https://steemit.com/@dan)
-    -[Historical Facts about Daniel Larimer and his Contributions to the Blockchain Industry
-](https://steemit.com/eosio/@xeroc/historical-facts-about-daniel-larimer-and-his-contributions-to-the-blockchain-industry)
-    -[Blockchain UTXO Model is a Dead End for General Purpose Applications](https://steemit.com/blockchain/@dantheman/blockchain-utxo-model-is-a-dead-end-for-general-purpose-applications)
-    -[Blockchains should be designed like massively multiplayer games](https://steemit.com/blockchain/@dantheman/blockchains-should-be-designed-like-massively-multiplayer-games)
-    -[Blockchain State Representation should be Abstract and not part of Consensus](https://steemit.com/etheruem/@dantheman/blockchain-state-representation-should-be-abstract-and-not-part-of-consensus)
-    -[The Problem with Byzantine Generals](https://steemit.com/blockchain/@dantheman/the-problem-with-byzantine-generals)
-    -[EOS.IO software will not suffer from Denial of Service (DOS) attacks like Ethereum](https://steemit.com/eos/@dantheman/eos-io-software-will-not-suffer-from-denial-of-service-dos-attacks-like-ethereum)
-    -[Web Assembly on EOS - 50,000 Transfers Per Second](https://steemit.com/eos/@dantheman/web-assembly-on-eos-50-000-transfers-per-second)
-    -[Why every Blockchain needs a Constitution](https://steemit.com/blockchain/@dan/why-every-blockchain-needs-a-constitution)
-    -[Enforceability of Constitutions](https://steemit.com/blockchain/@dan/enforceability-of-constitutions)
-    -[What could a blockchain Constitution look like?](https://steemit.com/eos/@dantheman/what-could-a-blockchain-constitution-look-like)
-    -[EOS - Example Exchange Contract and Benefits of C++](https://steemit.com/eos/@dan/eos-example-exchange-contract-and-benefits-of-c)
-    -[Reponse to Vitalik's Written Remarks](https://steemit.com/eos/@dan/reponse-to-vitalik-s-written-remarks)
-    -[Casper as an EOS Contract](https://steemit.com/eos/@dan/casper-as-an-eos-contract)
-    -[EOS.IO Developer Update - Support for Apple's secure enclave and similar technologies](https://steemit.com/eos/@dan/eos-io-developer-update-support-for-apple-s-secure-enclave-and-similar-technologies)
-    -[Inter-blockchain Communication via Merkle Proofs with EOS.IO](https://steemit.com/eos/@dan/inter-blockchain-communication-via-merkle-proofs-with-eos-io)
-    -[Does Freedom Require Radical Transparency or Radical Privacy?](https://steemit.com/eos/@dan/does-freedom-require-radical-transparency-or-radical-privacy)
-    -[Proof of Good Governance](https://steemit.com/eos/@dan/proof-of-good-governance)
- 2. [Ian Grigg](https://steemit.com/@iang)
-    -[EOS - An Introduction](https://steemit.com/eos/@iang/eos-an-introduction)
-    -[Towards A Ricardian Constitution](https://steemit.com/eos/@iang/towards-a-ricardian-constitution)
-    -[Why Go Full Ricardian - the digital contract](https://steemit.com/ricardian/@iang/why-go-full-ricardian-the-digital-contract)
-    -[Do you know what is meant by win-win and win-lose?](https://steemit.com/winwin/@iang/do-you-know-what-is-meant-by-win-win-and-win-lose)
-    -[Seeking Consensus on Consensus - DPOS or Delegated Proof of Stake and the Two Generals' Problem](https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem)
-    -[EOS with DPOS is immune to the GFW attack _because it is more decentralised_](https://steemit.com/eos/@iang/eos-with-dpos-is-immune-to-the-gfw-attack-because-it-is-more-decentralised)
- 3. [EOS Go](https://steemit.com/@eosgo)
+- **Daniel Larimer** - [@dantheman](https://steemit.com/@dantheman) / [@dan](https://steemit.com/@dan)
+  - [Historical Facts about Daniel Larimer and his Contributions to the Blockchain Industry](https://steemit.com/eosio/@xeroc/historical-facts-about-daniel-larimer-and-his-contributions-to-the-blockchain-industry)
+  - [Blockchain UTXO Model is a Dead End for General Purpose Applications](https://steemit.com/blockchain/@dantheman/blockchain-utxo-model-is-a-dead-end-for-general-purpose-applications)
+  - [Blockchains should be designed like massively multiplayer games](https://steemit.com/blockchain/@dantheman/blockchains-should-be-designed-like-massively-multiplayer-games)
+  - [Blockchain State Representation should be Abstract and not part of Consensus](https://steemit.com/etheruem/@dantheman/blockchain-state-representation-should-be-abstract-and-not-part-of-consensus)
+  - [The Problem with Byzantine Generals](https://steemit.com/blockchain/@dantheman/the-problem-with-byzantine-generals)
+  - [EOS.IO software will not suffer from Denial of Service (DOS) attacks like Ethereum](https://steemit.com/eos/@dantheman/eos-io-software-will-not-suffer-from-denial-of-service-dos-attacks-like-ethereum)
+  - [Web Assembly on EOS - 50,000 Transfers Per Second](https://steemit.com/eos/@dantheman/web-assembly-on-eos-50-000-transfers-per-second)
+  - [Why every Blockchain needs a Constitution](https://steemit.com/blockchain/@dan/why-every-blockchain-needs-a-constitution)
+  - [Enforceability of Constitutions](https://steemit.com/blockchain/@dan/enforceability-of-constitutions)
+  - [What could a blockchain Constitution look like?](https://steemit.com/eos/@dantheman/what-could-a-blockchain-constitution-look-like)
+  - [EOS - Example Exchange Contract and Benefits of C++](https://steemit.com/eos/@dan/eos-example-exchange-contract-and-benefits-of-c)
+  - [Reponse to Vitalik's Written Remarks](https://steemit.com/eos/@dan/reponse-to-vitalik-s-written-remarks)
+  - [Casper as an EOS Contract](https://steemit.com/eos/@dan/casper-as-an-eos-contract)
+  - [EOS.IO Developer Update - Support for Apple's secure enclave and similar technologies](https://steemit.com/eos/@dan/eos-io-developer-update-support-for-apple-s-secure-enclave-and-similar-technologies)
+  - [Inter-blockchain Communication via Merkle Proofs with EOS.IO](https://steemit.com/eos/@dan/inter-blockchain-communication-via-merkle-proofs-with-eos-io)
+  - [Does Freedom Require Radical Transparency or Radical Privacy?](https://steemit.com/eos/@dan/does-freedom-require-radical-transparency-or-radical-privacy)
+  - [Proof of Good Governance](https://steemit.com/eos/@dan/proof-of-good-governance)
+- **Ian Grigg** - [@iang](https://steemit.com/@iang)
+  - [EOS - An Introduction](https://steemit.com/eos/@iang/eos-an-introduction)
+  - [Towards A Ricardian Constitution](https://steemit.com/eos/@iang/towards-a-ricardian-constitution)
+  - [Why Go Full Ricardian - the digital contract](https://steemit.com/ricardian/@iang/why-go-full-ricardian-the-digital-contract)
+  - [Do you know what is meant by win-win and win-lose?](https://steemit.com/winwin/@iang/do-you-know-what-is-meant-by-win-win-and-win-lose)
+  - [Seeking Consensus on Consensus - DPOS or Delegated Proof of Stake and the Two Generals' Problem](https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem)
+  - [EOS with DPOS is immune to the GFW attack _because it is more decentralised_](https://steemit.com/eos/@iang/eos-with-dpos-is-immune-to-the-gfw-attack-because-it-is-more-decentralised)
+- **EOS Go** - [@eosgo](https://steemit.com/@eosgo)
 
-## Token Registration Step by Step guides 
+## Token Registration Step by Step guides
 
  1. [EOS Authority - EOS Balance and public key checking tool](https://www.eosauthority.com/)
  2. [How your EOS Tokens move from Ethereum to the EOS blockchain](https://medium.com/@eosforumorg/how-your-eos-tokens-move-from-ethereum-to-the-eos-blockchain-dafd8448a375)
@@ -171,22 +170,22 @@ Curated list of awesome EOS.
 - [Block Producers Report Feedback](https://docs.google.com/forms/d/e/1FAIpQLScH9O0l2EiQA6DypukKxySKJ7_VAnzdInXVIZ-x9aiJ6ZEPDA/viewform)
 - [Explaining the Role of an EOS Block Producer](https://www.youtube.com/watch?v=YLt5uexD9gg)
 - [IPFS](ipfs.io)
-    - [IPFS Alpha Demo](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
+  - [IPFS Alpha Demo](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
 
 ## Block Producer Candidates (BPC)
 
-1. [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time [Facebook](https://www.facebook.com/groups/EOSNation/)[/Steemit](https://steemit.com/@daverex)[/GitHub](https://github.com/EOS-Nation)[/Youtube](https://www.youtube.com/channel/UCXgAY9DyooykrubRXw3xK1g/featured)
-2. [EOS New York](https://www.eosnewyork.io/) - Everything a block away
-3. [EOS London](https://eos42.io/) - Empowering the Community
-4. [eosDAC](http://eosdac.io/) - The Community-Owned EOS Block Producer
-5. [EOSIO](http://eosio.se/) - Changing the World one Block at a time
-6. [EOSYS](http://eosys.io/) - AT DAWN,  LOOK TO THE EAST
-7. [SaltBlock](https://www.saltblock.io/home)
-8. [EOS Shenzhen](https://eoshenzhen.io/) - Shenzhen is Asia's Silicon Valley
-9. [EOS UNION](http://www.eos.ren/) - Make EOS Great, Make Yourself Great
-10.[EOS Detroit](http://eosdetroit.com/)
-11.[EOS SLC](http://www.eosslc.com/)
-12.[Crypto Lions](http://cryptolions.io/)
-13.[EOS Green](http://eosgreen.io/)
-14.[EOS Oklahoma](https://eosoklahoma.com/)
-15.[EOS Nairobi](http://eosnairobi.io/)
+- [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time
+- [EOS New York](https://www.eosnewyork.io/) - Everything a block away
+- [EOS London](https://eos42.io/) - Empowering the Community
+- [eosDAC](http://eosdac.io/) - The Community-Owned EOS Block Producer
+- [EOSIO](http://eosio.se/) - Changing the World one Block at a time
+- [EOSYS](http://eosys.io/) - AT DAWN,  LOOK TO THE EAST
+- [SaltBlock](https://www.saltblock.io/home)
+- [EOS Shenzhen](https://eoshenzhen.io/) - Shenzhen is Asia's Silicon Valley
+- [EOS UNION](http://www.eos.ren/) - Make EOS Great, Make Yourself Great
+- [EOS Detroit](http://eosdetroit.com/)
+- [EOS SLC](http://www.eosslc.com/)
+- [Crypto Lions](http://cryptolions.io/)
+- [EOS Green](http://eosgreen.io/)
+- [EOS Oklahoma](https://eosoklahoma.com/)
+- [EOS Nairobi](http://eosnairobi.io/)
