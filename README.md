@@ -25,6 +25,7 @@ Curated list of awesome EOS.
 
 - [EOS Go](https://forums.eosgo.io/)
 - [EOS Talk](https://eostalk.io)
+- [Telegram EOS Dev](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw)
 
 ## Meetups
 
