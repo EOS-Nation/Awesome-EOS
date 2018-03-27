@@ -19,6 +19,7 @@ Curated list of awesome EOS.
 - [EOS Drops](https://www.eosdrops.io/) - A Collection of EOS.IO Projects "Air Dropping" Tokens
 - [Block'tivity](https://blocktivity.info/) - The real value of Blockchains
 - [EOS Authority](https://eosauthority.com/) - This tool will also help you make sure that the public key with EOS is also registered correctly.
+- [EOS Tracker](http://eostracker.io/)[Introduction post](https://steemit.com/eos/@kesarito/introducing-eos-tracker-real-time-viewer-for-eos-blockchain) - EOS Block Explorer
 
 ## Community Forums
 
@@ -104,10 +105,12 @@ Curated list of awesome EOS.
  - [Feb 2018 - EOS New York - Inaugural Meetup Event with Thomas Cox](https://www.youtube.com/watch?v=TMtGfjWdnYU)
    - [Q&A Transcript (EN)](https://gist.github.com/DenisCarriere/d2c14acc193a79f53d7f3ef06cee3806)
  - [Feb 2018 - Article - Bancor to Support EOS.io Blockchain](https://themerkle.com/bancor-to-support-eos-io-blockchain/)
+ - [Feb 2018 - Article - Why EOS may be the Best Investment Opportunity of Our Lifetime](https://medium.com/@toddwelker/why-eos-may-be-the-best-investment-opportunity-of-our-lifetime-that-you-havent-already-missed-632be217151a)
  - [Mar 2018 - EOS Rise West 2018 pt 1](https://dlive.io/video/eosdallas/06979ad0-28e9-11e8-a5a6-dd5b02004a6a)
  - [Mar 2018 - EOS Rise West 2018 pt 2](https://dlive.io/video/eosdallas/eb946010-28ed-11e8-a5a6-dd5b02004a6a)
  - [Mar 2018 - Dan Larimer speech at Virginia Tech](https://steemit.com/eos/@nelizaldet/dan-larimer-speak-on-eos-march-20-2018)
  - [Mar 2018 - Development of EOS.IO Projects in Europe](https://medium.com/@eosio/finlab-ag-and-block-one-36cf89e8d17a)
+ - [Mar 2018 - EOS will be EPIC - jsnip4 Interview with Shannon](https://www.youtube.com/watch?v=CfKq-UuxHa4&feature=youtu.be)
  - [Feb 2018 - FRENCH - EOS - La blockchain du futur](https://www.youtube.com/watch?v=K4s4Tl6zqcw&t=802s)
 
 ## YouTube Channels
@@ -118,9 +121,39 @@ Curated list of awesome EOS.
  4. [The Awakenment](https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag)
  5. [Yvan on Tech](https://www.youtube.com/user/LiljeqvistIvan)
 
+## Steemit Accounts to follow
+
+ 1. [Daniel Larimer Account #1](https://steemit.com/@dantheman)[/Account #2](https://steemit.com/@dan)
+    -[Historical Facts about Daniel Larimer and his Contributions to the Blockchain Industry
+](https://steemit.com/eosio/@xeroc/historical-facts-about-daniel-larimer-and-his-contributions-to-the-blockchain-industry)
+    -[Blockchain UTXO Model is a Dead End for General Purpose Applications](https://steemit.com/blockchain/@dantheman/blockchain-utxo-model-is-a-dead-end-for-general-purpose-applications)
+    -[Blockchains should be designed like massively multiplayer games](https://steemit.com/blockchain/@dantheman/blockchains-should-be-designed-like-massively-multiplayer-games)
+    -[Blockchain State Representation should be Abstract and not part of Consensus](https://steemit.com/etheruem/@dantheman/blockchain-state-representation-should-be-abstract-and-not-part-of-consensus)
+    -[The Problem with Byzantine Generals](https://steemit.com/blockchain/@dantheman/the-problem-with-byzantine-generals)
+    -[EOS.IO software will not suffer from Denial of Service (DOS) attacks like Ethereum](https://steemit.com/eos/@dantheman/eos-io-software-will-not-suffer-from-denial-of-service-dos-attacks-like-ethereum)
+    -[Web Assembly on EOS - 50,000 Transfers Per Second](https://steemit.com/eos/@dantheman/web-assembly-on-eos-50-000-transfers-per-second)
+    -[Why every Blockchain needs a Constitution](https://steemit.com/blockchain/@dan/why-every-blockchain-needs-a-constitution)
+    -[Enforceability of Constitutions](https://steemit.com/blockchain/@dan/enforceability-of-constitutions)
+    -[What could a blockchain Constitution look like?](https://steemit.com/eos/@dantheman/what-could-a-blockchain-constitution-look-like)
+    -[EOS - Example Exchange Contract and Benefits of C++](https://steemit.com/eos/@dan/eos-example-exchange-contract-and-benefits-of-c)
+    -[Reponse to Vitalik's Written Remarks](https://steemit.com/eos/@dan/reponse-to-vitalik-s-written-remarks)
+    -[Casper as an EOS Contract](https://steemit.com/eos/@dan/casper-as-an-eos-contract)
+    -[EOS.IO Developer Update - Support for Apple's secure enclave and similar technologies](https://steemit.com/eos/@dan/eos-io-developer-update-support-for-apple-s-secure-enclave-and-similar-technologies)
+    -[Inter-blockchain Communication via Merkle Proofs with EOS.IO](https://steemit.com/eos/@dan/inter-blockchain-communication-via-merkle-proofs-with-eos-io)
+    -[Does Freedom Require Radical Transparency or Radical Privacy?](https://steemit.com/eos/@dan/does-freedom-require-radical-transparency-or-radical-privacy)
+    -[Proof of Good Governance](https://steemit.com/eos/@dan/proof-of-good-governance)
+ 2. [Ian Grigg](https://steemit.com/@iang)
+    -[EOS - An Introduction](https://steemit.com/eos/@iang/eos-an-introduction)
+    -[Towards A Ricardian Constitution](https://steemit.com/eos/@iang/towards-a-ricardian-constitution)
+    -[Why Go Full Ricardian - the digital contract](https://steemit.com/ricardian/@iang/why-go-full-ricardian-the-digital-contract)
+    -[Do you know what is meant by win-win and win-lose?](https://steemit.com/winwin/@iang/do-you-know-what-is-meant-by-win-win-and-win-lose)
+    -[Seeking Consensus on Consensus - DPOS or Delegated Proof of Stake and the Two Generals' Problem](https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem)
+    -[EOS with DPOS is immune to the GFW attack _because it is more decentralised_](https://steemit.com/eos/@iang/eos-with-dpos-is-immune-to-the-gfw-attack-because-it-is-more-decentralised)
+ 3. [EOS Go](https://steemit.com/@eosgo)
+
 ## Token Registration Step by Step guides 
 
- 1. [EOS Balance and public key checking tool](https://www.eosauthority.com/)
+ 1. [EOS Authority - EOS Balance and public key checking tool](https://www.eosauthority.com/)
  2. [How your EOS Tokens move from Ethereum to the EOS blockchain](https://medium.com/@eosforumorg/how-your-eos-tokens-move-from-ethereum-to-the-eos-blockchain-dafd8448a375)
  3. Using MyEtherWallet (Trezor, Ledger Nano, and others)
     - [Steemit guide by Sandwich](https://steemit.com/eos/@sandwich/how-to-update-the-eos-public-key-mapped-registered-to-your-ethereum-wallet-with-myetherwallet-mew)
