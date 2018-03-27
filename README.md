@@ -8,6 +8,7 @@ Curated list of awesome EOS.
 
 - [EOS.io](https://eos.io)
 - [Block.one](https://block.one)
+- **EOS.io blog**[Medium](https://medium.com/@eosio) / [Steemit](https://steemit.com/@eosio)
 - [EOS Technical Whitepaper and RoadMap](https://github.com/EOSIO/Documentation) 
 - [EOS Storage Whitepaper](https://github.com/EOSIO/Documentation/blob/master/EOS.IO%20Storage.pdf)
 
@@ -93,7 +94,7 @@ Curated list of awesome EOS.
  - [Dec 2017 - Governance - The Killer App? EOS - Blockchain Governance Operating System](https://steemit.com/eos/@worldclassplayer/governance-the-killer-app-eos-blockchain-governance-operating-system)
  - [Dec 2017 - Article - Why EOS will crush Ethereum](https://steemit.com/eos/@theschrammhit001/eos-vs-ethereum)
  - [Dec 2017 - EOS replacing Ethereum? Decentralized exchanges - Iva on Tech, Brock Pierce](https://www.youtube.com/watch?v=rPAZzKuSF_Y)
- - [Jan 2018 - The Awakenment - Dan Larimer peer reviews Cardano](https://www.youtube.com/watch?v=rC2GOl9oGNI&t=25s)
+ - [Jan 2018 - The Awakenment - Dan Larimer peer reviews Cardano](https://www.youtube.com/watch?v=rC2GO2732l9oGNI&t=25s)
  - [Jan 2018 - Dan Larimer predicts the future](https://www.youtube.com/watch?v=C-B-0pP-VI0)
  - [Jan 2018 - Dan Larimer explanation of DPOS+BFT part 1 of 2](https://www.youtube.com/watch?v=Xs1dyZFhIr4)
  - [Jan 2018 - Dan Larimer explanation of DPOS+BFT part 2 of 2](https://www.youtube.com/watch?v=57hfF4o4-2A)
@@ -113,6 +114,10 @@ Curated list of awesome EOS.
  - [Mar 2018 - Development of EOS.IO Projects in Europe](https://medium.com/@eosio/finlab-ag-and-block-one-36cf89e8d17a)
  - [Mar 2018 - EOS will be EPIC - jsnip4 Interview with Shannon](https://www.youtube.com/watch?v=CfKq-UuxHa4&feature=youtu.be)
  - [Feb 2018 - FRENCH - EOS - La blockchain du futur](https://www.youtube.com/watch?v=K4s4Tl6zqcw&t=802s)
+ - [Mar 2018 - FinLab AG and Block.one Announce $100 million Joint Venture](https://medium.com/@eosio/finlab-ag-and-block-one-36cf89e8d17a)
+ - [Mar 2018 - Article - Blockchain Social Network in China, ONO, Announces Running for EOS Super Nodes](https://bitzamp.com/first-blockchain-social-network-in-china-ono-announces-running-for-eos-super-nodes/)
+ - [Mar 2018 - New Example Currency Contract](https://medium.com/@bytemaster/eosio-new-example-currency-contract-6372c2e644dd)
+ 
 
 ## YouTube Channels
 
@@ -124,7 +129,7 @@ Curated list of awesome EOS.
 
 ## Steemit Accounts to follow
 
-- **Daniel Larimer** - [@dantheman](https://steemit.com/@dantheman) / [@dan](https://steemit.com/@dan)
+- **Daniel Larimer** - [@dantheman](https://steemit.com/@dantheman) / [@dan](https://steemit.com/@dan) / [Medium](https://medium.com/@bytemaster)
   - [Historical Facts about Daniel Larimer and his Contributions to the Blockchain Industry](https://steemit.com/eosio/@xeroc/historical-facts-about-daniel-larimer-and-his-contributions-to-the-blockchain-industry)
   - [Blockchain UTXO Model is a Dead End for General Purpose Applications](https://steemit.com/blockchain/@dantheman/blockchain-utxo-model-is-a-dead-end-for-general-purpose-applications)
   - [Blockchains should be designed like massively multiplayer games](https://steemit.com/blockchain/@dantheman/blockchains-should-be-designed-like-massively-multiplayer-games)
@@ -142,6 +147,8 @@ Curated list of awesome EOS.
   - [Inter-blockchain Communication via Merkle Proofs with EOS.IO](https://steemit.com/eos/@dan/inter-blockchain-communication-via-merkle-proofs-with-eos-io)
   - [Does Freedom Require Radical Transparency or Radical Privacy?](https://steemit.com/eos/@dan/does-freedom-require-radical-transparency-or-radical-privacy)
   - [Proof of Good Governance](https://steemit.com/eos/@dan/proof-of-good-governance)
+  - [Who Should Control A Blockchain?](https://steemit.com/eos/@eosio/who-should-control-a-blockchain)
+  - [Is Google an Illegal Money Transmitter and Securities Exchange?](https://medium.com/@bytemaster/is-google-an-illegal-money-transmitter-and-securities-exchange-ed27fa53b301)
 - **Ian Grigg** - [@iang](https://steemit.com/@iang)
   - [EOS - An Introduction](https://steemit.com/eos/@iang/eos-an-introduction)
   - [Towards A Ricardian Constitution](https://steemit.com/eos/@iang/towards-a-ricardian-constitution)
