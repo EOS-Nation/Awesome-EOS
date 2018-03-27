@@ -8,7 +8,7 @@ Curated list of awesome EOS.
 
 - [EOS.io](https://eos.io)
 - [Block.one](https://block.one)
-- **EOS.io blog**[Medium](https://medium.com/@eosio) / [Steemit](https://steemit.com/@eosio)
+- **EOS.io blog**  [Medium](https://medium.com/@eosio) / [Steemit](https://steemit.com/@eosio)
 - [EOS Technical Whitepaper and RoadMap](https://github.com/EOSIO/Documentation) 
 - [EOS Storage Whitepaper](https://github.com/EOSIO/Documentation/blob/master/EOS.IO%20Storage.pdf)
 
@@ -104,8 +104,7 @@ Curated list of awesome EOS.
  - [Feb 2018 - Sit Down Q&A With Thomas Cox, VP of Product Part 1 of 2](https://www.youtube.com/watch?v=okEWdW0WlxM)
  - [Feb 2018 - Yvan on Tech - Dan Larimer interview](https://www.youtube.com/watch?v=o7HQlcl-LlQ&t=2s)
  - [Feb 2018 - EOS an Introduction with Thomas Cox and Sam Kazemian](https://www.youtube.com/watch?v=ssMGYH_PyN4)
- - [Feb 2018 - EOS New York - Inaugural Meetup Event with Thomas Cox](https://www.youtube.com/watch?v=TMtGfjWdnYU)
-   - [Q&A Transcript (EN)](https://gist.github.com/DenisCarriere/d2c14acc193a79f53d7f3ef06cee3806)
+ - [Feb 2018 - EOS New York - Inaugural Meetup Event with Thomas Cox](https://www.youtube.com/watch?v=TMtGfjWdnYU)  [Q&A Transcript (EN)](https://gist.github.com/DenisCarriere/d2c14acc193a79f53d7f3ef06cee3806)
  - [Feb 2018 - Article - Bancor to Support EOS.io Blockchain](https://themerkle.com/bancor-to-support-eos-io-blockchain/)
  - [Feb 2018 - Article - Why EOS may be the Best Investment Opportunity of Our Lifetime](https://medium.com/@toddwelker/why-eos-may-be-the-best-investment-opportunity-of-our-lifetime-that-you-havent-already-missed-632be217151a)
  - [Mar 2018 - EOS Rise West 2018 pt 1](https://dlive.io/video/eosdallas/06979ad0-28e9-11e8-a5a6-dd5b02004a6a)
