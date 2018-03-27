@@ -189,3 +189,5 @@ Curated list of awesome EOS.
 - [EOS Green](http://eosgreen.io/)
 - [EOS Oklahoma](https://eosoklahoma.com/)
 - [EOS Nairobi](http://eosnairobi.io/)
+- [EOSoCal](https://eosocal.io)
+- [EOS Cannon](https://eoscannon.io/)
