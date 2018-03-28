@@ -21,6 +21,7 @@ Curated list of awesome EOS.
 - [Block'tivity](https://blocktivity.info/) - The real value of Blockchains
 - [EOS Authority](https://eosauthority.com/) - This tool will also help you make sure that the public key with EOS is also registered correctly.
 - [EOS Tracker](http://eostracker.io/)[ / Introduction post](https://steemit.com/eos/@kesarito/introducing-eos-tracker-real-time-viewer-for-eos-blockchain) - EOS Block Explorer
+- [EOS Projects](https://steemit.com/eos/@tokenika/introducing-eos-projects-a-directory-of-apps-sites-and-tools-built-by-eos-community) - Directory of Projects based around EOS
 
 ## Community Forums
 
@@ -72,6 +73,7 @@ Curated list of awesome EOS.
  - [July 2017 - EOS Decentralized Funding and the New Corporate Structure DAC by Brendan Blumer](https://www.youtube.com/watch?v=ZiimIJnVXxU)
  - [Aug 2017 - EOS Controversy, Red Flags and Explanation](https://www.youtube.com/watch?v=SydSQx-dYvM)
  - [Aug 2017 - Dan Larimer - EOS - The Decentralized Operating System](https://www.youtube.com/watch?v=eftctVXiFJQ&feature=share)
+ - [Aug 2017 - Article - The Dawn of EOS.IO](https://steemit.com/eos/@eosio/the-dawn-of-eos-io)
  - [Sept 2017 - EOS: The Era of the DACs by Brendan Blumer - NY FinTech Week](https://www.youtube.com/watch?v=ClJSLwoBtCc)
  - [Sept 2017 - EOS and the Era of DACs by Brendan Blumer, Daniel Larimer and Brock Pierce](https://www.youtube.com/watch?v=aK3gklktEek)
  - [Sept 2017 - EOS London Meetup with Dan and Brendan (WE WILL ADD VIDEO ON OUR YOUTUBE I HAVE IT IN MP4)](https://steemit.com/eos/@eosio/a-recap-london-eos-meetup)
@@ -105,7 +107,9 @@ Curated list of awesome EOS.
  - [Feb 2018 - Yvan on Tech - Dan Larimer interview](https://www.youtube.com/watch?v=o7HQlcl-LlQ&t=2s)
  - [Feb 2018 - EOS an Introduction with Thomas Cox and Sam Kazemian](https://www.youtube.com/watch?v=ssMGYH_PyN4)
  - [Feb 2018 - EOS New York - Inaugural Meetup Event with Thomas Cox](https://www.youtube.com/watch?v=TMtGfjWdnYU)  [Q&A Transcript (EN)](https://gist.github.com/DenisCarriere/d2c14acc193a79f53d7f3ef06cee3806)
+ - [Feb 2018 - Article - BLOCK.ONE and TOMORROW BLOCKCHAIN OPPORTUNITIES announce formation of EOS.IO Blockchain Focused Fund](https://steemit.com/eos/@eosio/block-one-and-tomorrow-blockchain-opportunities-announce-formation-of-eos-io-blockchain-focused-fund)
  - [Feb 2018 - Article - Bancor to Support EOS.io Blockchain](https://themerkle.com/bancor-to-support-eos-io-blockchain/)
+ - [Feb 2018 - Article - Eosit - Why Eos Needs To Be A Social Media Platform Too](https://steemit.com/eos/@mjhomb/eosit-why-eos-needs-to-be-a-social-media-platform-too)
  - [Feb 2018 - Article - Why EOS may be the Best Investment Opportunity of Our Lifetime](https://medium.com/@toddwelker/why-eos-may-be-the-best-investment-opportunity-of-our-lifetime-that-you-havent-already-missed-632be217151a)
  - [Mar 2018 - EOS Rise West 2018 pt 1](https://dlive.io/video/eosdallas/06979ad0-28e9-11e8-a5a6-dd5b02004a6a)
  - [Mar 2018 - EOS Rise West 2018 pt 2](https://dlive.io/video/eosdallas/eb946010-28ed-11e8-a5a6-dd5b02004a6a)
@@ -120,11 +124,12 @@ Curated list of awesome EOS.
 
 ## YouTube Channels
 
- 1. [EOS Go](https://www.youtube.com/channel/UC0fwWI2RBBtEIYIP6fH68XQ)
- 2. [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg)
- 3. [Clay Albright](https://www.youtube.com/channel/UCh-UuMD55GGfqN8flGYzGpg)
- 4. [The Awakenment](https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag)
- 5. [Yvan on Tech](https://www.youtube.com/user/LiljeqvistIvan)
+ - [EOS Go](https://www.youtube.com/channel/UC0fwWI2RBBtEIYIP6fH68XQ)
+ - [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg)
+ - [Beyond Bitcoin](https://www.youtube.com/channel/UCBZ9iWWNViVCips2ACk_ckQ)
+ - [Clay Albright](https://www.youtube.com/channel/UCh-UuMD55GGfqN8flGYzGpg)
+ - [The Awakenment](https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag)
+ - [Yvan on Tech](https://www.youtube.com/user/LiljeqvistIvan)
 
 ## Steemit Accounts to follow
 
@@ -156,6 +161,7 @@ Curated list of awesome EOS.
   - [Seeking Consensus on Consensus - DPOS or Delegated Proof of Stake and the Two Generals' Problem](https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-two-generals-problem)
   - [EOS with DPOS is immune to the GFW attack _because it is more decentralised_](https://steemit.com/eos/@iang/eos-with-dpos-is-immune-to-the-gfw-attack-because-it-is-more-decentralised)
 - **EOS Go** - [@eosgo](https://steemit.com/@eosgo)
+- **Tokenika** - [Steemit](https://steemit.com/@tokenika)
 
 ## Token Registration Step by Step guides
 
