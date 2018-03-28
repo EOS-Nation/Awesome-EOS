@@ -13,6 +13,7 @@ Curated list of awesome EOS.
 - EOS Blog  [Medium](https://medium.com/@eosio) / [Steemit](https://steemit.com/@eosio) / [Steemit trending EOS](https://steemit.com/trending/eos)
 - [EOS Technical Whitepaper and RoadMap](https://github.com/EOSIO/Documentation) 
 - [EOS Storage Whitepaper](https://github.com/EOSIO/Documentation/blob/master/EOS.IO%20Storage.pdf)
+- [DPOS Whitepaper](https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper) / [DPOS Security](https://steemit.com/steem/@dantheman/response-to-cosmos-white-paper-s-claims-on-dpos-security)
 - EOS Distribution tracking [EOS Scan](https://eosscan.io/) / [EOS Chart](http://eoschart.com/) / [EOS Price](https://eosprice.io/)
 
 ## The Team's BIO
