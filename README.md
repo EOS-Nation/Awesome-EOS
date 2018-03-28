@@ -28,7 +28,40 @@ Curated list of awesome EOS.
 
 - [EOS Go](https://forums.eosgo.io/)
 - [EOS Talk](https://eostalk.io)
-- [Telegram EOS Dev](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw)
+
+## EOS Telegram Channels
+
+- [**EOS General chat ENGLISH**](https://t.me/EOSproject)
+  - [EOS General chat Dan's messages only](https://t.me/daneos)
+- [**EOS General chat Korean**](https://t.me/EOSIOKorea) / [**KOREOS.IO**](https://t.me/koreosio)
+- [**EOS General chat Chinese**](https://t.me/EOSCN)
+
+- **Meetup Channels**
+  - [EOS Nation](https://t.me/EOSNation)
+  - [EOS Toronto/Waterloo](https://t.me/eosto)
+  - [EOS New York](https://t.me/joinchat/GmULkkp7EyiWjur4TOT9Kg)
+  - [EOS London](https://t.me/EOSLondon)
+  - [EOS Nairobi](https://t.me/eosnairobi)
+  - [EOS Hong Kong](https://t.me/EOSHongKong)
+    
+- **Developers**
+  - [EOS Developers](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw)
+  - [EOS Index](https://t.me/eosindex)
+  - [EOS Community Test Network](https://t.me/CommunityTestnet)
+  - [EOS.IO Testnet Scholar Network](https://t.me/ScholarTestnet)
+  - [EOS Game Developers](https://t.me/EosGameDevelopers)
+
+- **Discussion Channels**
+  - [EOS Price](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw)
+  - [EOS Governance](https://t.me/EOSGov)
+  - [EOS Block Producers](https://t.me/EOSPros)
+  - [EOS DAC Creators](https://t.me/EOSDAC)
+  - [EOS Opportunities](https://t.me/eos_opportunities)
+  - [EOS Design](https://t.me/EOSdesign)
+
+- **EOS News**
+  - [EOS Go Announcements (Telegram summary, etc.](https://t.me/eosgo_announcements)
+  - [EOS Airdrops](https://t.me/EOS_Airdrop)
 
 ## Meetups
 
