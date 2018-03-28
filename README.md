@@ -16,6 +16,13 @@ Curated list of awesome EOS.
 - [EOS Storage Whitepaper](https://github.com/EOSIO/Documentation/blob/master/EOS.IO%20Storage.pdf)
 - [EOS Scan](https://eosscan.io/)
 
+## The Team's BIO
+
+- [CEO Brendan Blumer](https://eos.io)
+- [CTO Daniel Larimer](https://eos.io)
+- [CEO Brendan Blumer](https://eos.io)
+- [CEO Brendan Blumer](https://eos.io)
+
 ## Community Projects
 
 - [EOS Scholar Testnet](https://scholar.eosnation.io/)[ / Intro post](https://steemit.com/eos/@eosnation/eos-io-scholar-testnet)[ / GitHub](https://github.com/ScholarTestnet)[Telegram](https://t.me/ScholarTestnet) - Educational material to Block Producers involved in the EOS Testnet
@@ -32,6 +39,10 @@ Curated list of awesome EOS.
 
 - [EOS Go](https://forums.eosgo.io/)
 - [EOS Talk](https://eostalk.io)
+- [EOS Forum](https://eosforum.org/)
+- [Reddit](https://www.reddit.com/r/eos/)
+- [EOS Talk](https://eostalk.io)
+- [Discord Channel](http://eos.social/)
 
 ## EOS Telegram Channels
 
@@ -40,6 +51,9 @@ Curated list of awesome EOS.
   - [EOS General chat Dan's messages only](https://t.me/daneos)
   - [EOS General chat Korean](https://t.me/EOSIOKorea) / [KOREOS.IO](https://t.me/koreosio)
   - [EOS General chat Chinese](https://t.me/EOSCN)
+  - [EOS General chat Russian](https://t.me/eos_ru)
+  - [EOS General chat Vietnamese](http://t.me/eosvietnam)
+  - [EOS General chat Deutsche](http://t.me/EOSDE)
 
 - **Meetup Channels**
   - [EOS Nation](https://t.me/EOSNation)
