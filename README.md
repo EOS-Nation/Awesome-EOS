@@ -21,7 +21,7 @@ Curated list of awesome EOS.
 - [Block'tivity](https://blocktivity.info/) - The real value of Blockchains
 - [EOS Authority](https://eosauthority.com/) - This tool will also help you make sure that the public key with EOS is also registered correctly.
 - [EOS Tracker](http://eostracker.io/)[ / Introduction post](https://steemit.com/eos/@kesarito/introducing-eos-tracker-real-time-viewer-for-eos-blockchain) - EOS Block Explorer
-- [EOS Projects](https://steemit.com/eos/@tokenika/introducing-eos-projects-a-directory-of-apps-sites-and-tools-built-by-eos-community) - Directory of Projects based around EOS
+- [EOS Projects](https://eosprojects.org/)[ / Introduction post](https://steemit.com/eos/@tokenika/introducing-eos-projects-a-directory-of-apps-sites-and-tools-built-by-eos-community) - Directory of Projects based around EOS
 
 ## Community Forums
 
