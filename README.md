@@ -3,6 +3,9 @@
 Curated list of awesome EOS.
 
 > AKA "The EOS Bible"
+## You want to help the EOS community? APPLY FOR EOS NATION AMBASSADOR!
+
+- [EOS Nation Ambassador info](https://steemit.com/eos/@eosnation/eos-nation-ambassador)
 
 ## Official
 
