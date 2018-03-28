@@ -18,8 +18,10 @@ Curated list of awesome EOS.
 
 ## The Team's BIO
 
-- [CEO Brendan Blumer](https://www.linkedin.com/in/brendanblumer/)
-- [CTO Daniel Larimer](https://steemit.com/introduceyourself/@dantheman/daniel-larimer--co-founder-of-bitshares-steemit#@carjhb/re-dantheman-daniel-larimer--co-founder-of-bitshares-steemit-20171009t095816036z) / [LinkedIn](https://www.linkedin.com/in/daniel-larimer-0a367089/)
+- CEO - Brendan Blumer [LinkedIn](https://www.linkedin.com/in/brendanblumer/) / [Twitter](https://twitter.com/BrendanBlumer?lang=en)
+- CTO - Daniel Larimer [LinkedIn](https://www.linkedin.com/in/daniel-larimer-0a367089/) / [Twitter](https://twitter.com/bytemaster7) / [Steemit Intro](https://steemit.com/introduceyourself/@dantheman/daniel-larimer--co-founder-of-bitshares-steemit#@carjhb/re-dantheman-daniel-larimer--co-founder-of-bitshares-steemit-20171009t095816036z) 
+-Advisor/Partner - Ian Grigg [LinkedIn](https://www.linkedin.com/in/ian-grigg-0379/) / [Twitter](https://twitter.com/iang_fc?lang=en) / [BIO](https://mattereum.com/the-team/ian-grigg.html) 
+- VP of Product - Thomas B. Cox [LinkedIn](https://www.linkedin.com/in/thomasbcox/) / [Twitter](https://twitter.com/TBCox)
 
 ## Community Projects
 
@@ -209,7 +211,7 @@ Curated list of awesome EOS.
   - [Proof of Good Governance](https://steemit.com/eos/@dan/proof-of-good-governance)
   - [Who Should Control A Blockchain?](https://steemit.com/eos/@eosio/who-should-control-a-blockchain)
   - [Is Google an Illegal Money Transmitter and Securities Exchange?](https://medium.com/@bytemaster/is-google-an-illegal-money-transmitter-and-securities-exchange-ed27fa53b301)
-- **Ian Grigg** - [@iang](https://steemit.com/@iang)
+- **Ian Grigg** - [@iang](https://steemit.com/@iang) / [Personnal Blog](http://financialcryptography.com/)
   - [EOS - An Introduction](https://steemit.com/eos/@iang/eos-an-introduction)
   - [Towards A Ricardian Constitution](https://steemit.com/eos/@iang/towards-a-ricardian-constitution)
   - [Why Go Full Ricardian - the digital contract](https://steemit.com/ricardian/@iang/why-go-full-ricardian-the-digital-contract)
