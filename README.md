@@ -31,10 +31,11 @@ Curated list of awesome EOS.
 
 ## EOS Telegram Channels
 
-- [**EOS General chat ENGLISH**](https://t.me/EOSproject)
+- **General Chat**
+  - [EOS General chat ENGLISH](https://t.me/EOSproject)
   - [EOS General chat Dan's messages only](https://t.me/daneos)
-- [**EOS General chat Korean**](https://t.me/EOSIOKorea) / [**KOREOS.IO**](https://t.me/koreosio)
-- [**EOS General chat Chinese**](https://t.me/EOSCN)
+  - [EOS General chat Korean](https://t.me/EOSIOKorea) / [KOREOS.IO](https://t.me/koreosio)
+  - [EOS General chat Chinese](https://t.me/EOSCN)
 
 - **Meetup Channels**
   - [EOS Nation](https://t.me/EOSNation)
@@ -48,7 +49,7 @@ Curated list of awesome EOS.
   - [EOS Developers](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw)
   - [EOS Index](https://t.me/eosindex)
   - [EOS Community Test Network](https://t.me/CommunityTestnet)
-  - [EOS.IO Testnet Scholar Network](https://t.me/ScholarTestnet)
+  - [EOS Testnet Scholar Network](https://t.me/ScholarTestnet)
   - [EOS Game Developers](https://t.me/EosGameDevelopers)
 
 - **Discussion Channels**
