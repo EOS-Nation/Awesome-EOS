@@ -218,6 +218,7 @@ Curated list of awesome EOS.
   - [EOS with DPOS is immune to the GFW attack _because it is more decentralised_](https://steemit.com/eos/@iang/eos-with-dpos-is-immune-to-the-gfw-attack-because-it-is-more-decentralised)
 - **EOS Go** - [@eosgo](https://steemit.com/@eosgo)
 - **Tokenika** - [Steemit](https://steemit.com/@tokenika)
+- **Dallas Rushing** - [Steemit](https://steemit.com/@dallasrushing) 
 
 ## Token Registration Step by Step guides
 
