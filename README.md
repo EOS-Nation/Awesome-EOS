@@ -15,7 +15,7 @@ Curated list of awesome EOS.
 
 ## Community Projects
 
-- [EOS.IO Scholar Testnet](https://scholar.eosnation.io/)[ / Introduction post](https://steemit.com/eos/@eosnation/eos-io-scholar-testnet)[ / GitHub](https://github.com/ScholarTestnet) - Educational material to Block Producers involved in the EOS Testnet
+- [EOS Scholar Testnet](https://scholar.eosnation.io/)[ / Intro post](https://steemit.com/eos/@eosnation/eos-io-scholar-testnet)[ / GitHub](https://github.com/ScholarTestnet)[Telegram](https://t.me/ScholarTestnet) - Educational material to Block Producers involved in the EOS Testnet
 - [EOS Index](https://eosindex.io) - Directory of Projects based around EOS
 - [EOS Countdown](https://eoscountdown.com/) - Until EOS.IO MainNet Launch (Created by Jason Hodges)
 - [EOS Drops](https://www.eosdrops.io/) - A Collection of EOS.IO Projects "Air Dropping" Tokens
