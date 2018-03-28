@@ -17,10 +17,8 @@ Curated list of awesome EOS.
 
 ## The Team's BIO
 
-- [CEO Brendan Blumer](https://eos.io)
-- [CTO Daniel Larimer](https://eos.io)
-- [CEO Brendan Blumer](https://eos.io)
-- [CEO Brendan Blumer](https://eos.io)
+- [CEO Brendan Blumer](https://www.linkedin.com/in/brendanblumer/)
+- [CTO Daniel Larimer](https://steemit.com/introduceyourself/@dantheman/daniel-larimer--co-founder-of-bitshares-steemit#@carjhb/re-dantheman-daniel-larimer--co-founder-of-bitshares-steemit-20171009t095816036z) / [LinkedIn](https://www.linkedin.com/in/daniel-larimer-0a367089/)
 
 ## Community Projects
 
@@ -82,6 +80,9 @@ Curated list of awesome EOS.
   - [EOS Airdrops](https://t.me/EOS_Airdrop)
 
 ## Meetups
+
+
+- **Find an EOS Meetup** [MEETUPs](https://www.meetup.com/topics/EOS/)
 
 - North America
   - Canada
