@@ -113,6 +113,7 @@ Curated list of awesome EOS.
  - [Aug 2017 - EOS Controversy, Red Flags and Explanation](https://www.youtube.com/watch?v=SydSQx-dYvM)
  - [Aug 2017 - Dan Larimer - EOS - The Decentralized Operating System](https://www.youtube.com/watch?v=eftctVXiFJQ&feature=share)
  - [Aug 2017 - Article - The Dawn of EOS.IO](https://steemit.com/eos/@eosio/the-dawn-of-eos-io)
+ - [Sept 2017 - Article - DPOS Infographics and links to DPOS explanation](https://steemit.com/steemit/@eosfan/thought-you-guys-might-like-this-infographic-of-validator-distributions)
  - [Sept 2017 - EOS: The Era of the DACs by Brendan Blumer - NY FinTech Week](https://www.youtube.com/watch?v=ClJSLwoBtCc)
  - [Sept 2017 - EOS and the Era of DACs by Brendan Blumer, Daniel Larimer and Brock Pierce](https://www.youtube.com/watch?v=aK3gklktEek)
  - [Sept 2017 - EOS London Meetup with Dan and Brendan (WE WILL ADD VIDEO ON OUR YOUTUBE I HAVE IT IN MP4)](https://steemit.com/eos/@eosio/a-recap-london-eos-meetup)
