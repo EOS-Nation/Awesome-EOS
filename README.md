@@ -161,7 +161,7 @@ Curated list of awesome EOS.
  - [Feb 2018 - Sit Down Q&A With Thomas Cox, VP of Product Part 1 of 2](https://www.youtube.com/watch?v=okEWdW0WlxM)
  - [Feb 2018 - Yvan on Tech - Dan Larimer interview](https://www.youtube.com/watch?v=o7HQlcl-LlQ&t=2s)
  - [Feb 2018 - EOS an Introduction with Thomas Cox and Sam Kazemian](https://www.youtube.com/watch?v=ssMGYH_PyN4)
- - [Feb 2018 - EOS New York - Inaugural Meetup Event with Thomas Cox](https://www.youtube.com/watch?v=TMtGfjWdnYU)  [Q&A Transcript (EN)](https://gist.github.com/DenisCarriere/d2c14acc193a79f53d7f3ef06cee3806)
+ - [Feb 2018 - EOS New York - Inaugural Meetup Event with Thomas Cox](https://www.youtube.com/watch?v=TMtGfjWdnYU) / [Q&A Transcript (EN)](https://gist.github.com/DenisCarriere/d2c14acc193a79f53d7f3ef06cee3806)
  - [Feb 2018 - Article - BLOCK.ONE and TOMORROW BLOCKCHAIN OPPORTUNITIES announce formation of EOS.IO Blockchain Focused Fund](https://steemit.com/eos/@eosio/block-one-and-tomorrow-blockchain-opportunities-announce-formation-of-eos-io-blockchain-focused-fund)
  - [Feb 2018 - Article - Bancor to Support EOS.io Blockchain](https://themerkle.com/bancor-to-support-eos-io-blockchain/)
  - [Feb 2018 - Article - Eosit - Why Eos Needs To Be A Social Media Platform Too](https://steemit.com/eos/@mjhomb/eosit-why-eos-needs-to-be-a-social-media-platform-too)
