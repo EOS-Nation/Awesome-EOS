@@ -14,7 +14,7 @@ Curated list of awesome EOS.
 - EOS.io blog  [Medium](https://medium.com/@eosio) / [Steemit](https://steemit.com/@eosio)
 - [EOS Technical Whitepaper and RoadMap](https://github.com/EOSIO/Documentation) 
 - [EOS Storage Whitepaper](https://github.com/EOSIO/Documentation/blob/master/EOS.IO%20Storage.pdf)
-
+- [EOS Scan](https://eosscan.io/)
 
 ## Community Projects
 
