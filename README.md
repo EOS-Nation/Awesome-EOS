@@ -8,7 +8,7 @@ Curated list of awesome EOS.
 
 - [EOS.io](https://eos.io)
 - [Block.one](https://block.one)
-- **EOS.io blog**  [Medium](https://medium.com/@eosio) / [Steemit](https://steemit.com/@eosio)
+- EOS.io blog  [Medium](https://medium.com/@eosio) / [Steemit](https://steemit.com/@eosio)
 - [EOS Technical Whitepaper and RoadMap](https://github.com/EOSIO/Documentation) 
 - [EOS Storage Whitepaper](https://github.com/EOSIO/Documentation/blob/master/EOS.IO%20Storage.pdf)
 
