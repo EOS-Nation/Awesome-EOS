@@ -172,7 +172,7 @@ Curated list of awesome EOS.
 
 ## Steemit Accounts to follow
 
-- **Daniel Larimer** - [@dantheman](https://steemit.com/@dantheman) / [@dan](https://steemit.com/@dan) / [Medium](https://medium.com/@bytemaster)
+- **Daniel Larimer** - [@dantheman](https://steemit.com/@dantheman) / [@dan](https://steemit.com/@dan) / [Medium](https://medium.com/@bytemaster) / [ByteMaster's blog](http://bytemaster.github.io/all/)
   - [Historical Facts about Daniel Larimer and his Contributions to the Blockchain Industry](https://steemit.com/eosio/@xeroc/historical-facts-about-daniel-larimer-and-his-contributions-to-the-blockchain-industry)
   - [Blockchain UTXO Model is a Dead End for General Purpose Applications](https://steemit.com/blockchain/@dantheman/blockchain-utxo-model-is-a-dead-end-for-general-purpose-applications)
   - [Blockchains should be designed like massively multiplayer games](https://steemit.com/blockchain/@dantheman/blockchains-should-be-designed-like-massively-multiplayer-games)
@@ -186,6 +186,7 @@ Curated list of awesome EOS.
   - [EOS - Example Exchange Contract and Benefits of C++](https://steemit.com/eos/@dan/eos-example-exchange-contract-and-benefits-of-c)
   - [Reponse to Vitalik's Written Remarks](https://steemit.com/eos/@dan/reponse-to-vitalik-s-written-remarks)
   - [Casper as an EOS Contract](https://steemit.com/eos/@dan/casper-as-an-eos-contract)
+  - [How to build a Decentralized Application without Fees](https://bytemaster.github.io/article/2016/02/10/How-to-build-a-decentralized-application-without-fees/)
   - [EOS.IO Developer Update - Support for Apple's secure enclave and similar technologies](https://steemit.com/eos/@dan/eos-io-developer-update-support-for-apple-s-secure-enclave-and-similar-technologies)
   - [Inter-blockchain Communication via Merkle Proofs with EOS.IO](https://steemit.com/eos/@dan/inter-blockchain-communication-via-merkle-proofs-with-eos-io)
   - [Does Freedom Require Radical Transparency or Radical Privacy?](https://steemit.com/eos/@dan/does-freedom-require-radical-transparency-or-radical-privacy)
