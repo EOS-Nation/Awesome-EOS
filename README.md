@@ -10,8 +10,17 @@ Curated list of awesome EOS.
 ## Contents
 
 - [Official](#official)
-- [The Block.One Team](#the-block-one-team)
+- [The Team](#the-team)
 - [Community Projects](#community-projects)
+- [Community Forums](#community-forums)
+- [EOS Telegram Channels](#eos-telegram-channels)
+- [Meetups](#meetups)
+- [EOS related Content](#eos-related-content)
+- [YouTube Channels](#youtube-channels)
+- [Steemit Accounts to follow](#steemit-accounts-to-follow)
+- [Token Registration Step by Step guides](#token-registration-step-by-step-guides)
+- [Block Producer info](#block-producer-info)
+- [Block Producer Candidates (BPC)](#block-producer-candidates-(BPC))
 
 ## Official
 
@@ -22,7 +31,7 @@ Curated list of awesome EOS.
 - [DPOS Whitepaper](https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper) / [DPOS Security](https://steemit.com/steem/@dantheman/response-to-cosmos-white-paper-s-claims-on-dpos-security)
 - EOS Distribution tracking [EOS Scan](https://eosscan.io/) / [EOS Chart](http://eoschart.com/) / [EOS Price](https://eosprice.io/)
 
-## The Block.One Team
+## The Team
 
 - CEO - Brendan Blumer [LinkedIn](https://www.linkedin.com/in/brendanblumer/) / [Twitter](https://twitter.com/BrendanBlumer?lang=en)
 - CTO - Daniel Larimer [LinkedIn](https://www.linkedin.com/in/daniel-larimer-0a367089/) / [Twitter](https://twitter.com/bytemaster7) / [Steemit Intro](https://steemit.com/introduceyourself/@dantheman/daniel-larimer--co-founder-of-bitshares-steemit#@carjhb/re-dantheman-daniel-larimer--co-founder-of-bitshares-steemit-20171009t095816036z) 
