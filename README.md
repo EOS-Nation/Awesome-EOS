@@ -1,5 +1,5 @@
 <p align="center">
-# Awesome EOS 😎
+#Awesome EOS 😎
 </p>
 
 <p align="center">
@@ -9,10 +9,8 @@ Curated list of awesome EOS.
 > AKA "The EOS Bible"
 </p>
 <p align="center">
-## You want to help the EOS community? APPLY FOR EOS NATION AMBASSADOR!
-[EOS Nation Ambassador info](https://steemit.com/eos/@eosnation/eos-nation-ambassador)
+##You want to help the EOS community? APPLY FOR EOS NATION AMBASSADOR!
 </p>
-
 <p align="center">
 	<a href="https://steemit.com/eos/@eosnation/eos-nation-ambassador">EOS Nation Ambassador info</a>&nbsp;&nbsp;&nbsp;
 	</a>
