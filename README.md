@@ -40,6 +40,7 @@
 - CTO - Daniel Larimer [LinkedIn](https://www.linkedin.com/in/daniel-larimer-0a367089/) / [Twitter](https://twitter.com/bytemaster7) / [Steemit Intro](https://steemit.com/introduceyourself/@dantheman/daniel-larimer--co-founder-of-bitshares-steemit#@carjhb/re-dantheman-daniel-larimer--co-founder-of-bitshares-steemit-20171009t095816036z) / [Historical facts](https://steemit.com/eosio/@xeroc/historical-facts-about-daniel-larimer-and-his-contributions-to-the-blockchain-industry) / [Mission and Philosophy](https://steemit.com/philosophy/@dantheman/why-do-we-fight-to-change-the-world#@splendorhub/re-dantheman-why-do-we-fight-to-change-the-world) / [Reading list](http://bytemaster.github.io/article/2015/01/10/Recommended-Reading/)
 - VP of Product - Thomas B. Cox [LinkedIn](https://www.linkedin.com/in/thomasbcox/) / [Twitter](https://twitter.com/TBCox)
 - Advisor/Partner - Ian Grigg [LinkedIn](https://www.linkedin.com/in/ian-grigg-0379/) / [Twitter](https://twitter.com/iang_fc?lang=en) / [BIO](https://mattereum.com/the-team/ian-grigg.html) 
+- Senior VP of Operations - David Moss [LinkedIn](https://www.linkedin.com/in/david-moss-b598/) / [BIO](https://everipedia.org/wiki/david-moss-cto/)
 
 ## Community Projects
 
@@ -242,16 +243,19 @@
 
 ## Token Registration Step by Step guides
 
- 1. [EOS Authority - EOS Balance and public key checking tool](https://www.eosauthority.com/)
- 2. [How your EOS Tokens move from Ethereum to the EOS blockchain](https://medium.com/@eosforumorg/how-your-eos-tokens-move-from-ethereum-to-the-eos-blockchain-dafd8448a375)
- 3. Using MyEtherWallet (Trezor, Ledger Nano, and others)
-    - [Steemit guide by Sandwich](https://steemit.com/eos/@sandwich/how-to-update-the-eos-public-key-mapped-registered-to-your-ethereum-wallet-with-myetherwallet-mew)
+ - [EOS Authority - EOS Balance and public key checking tool](https://www.eosauthority.com/)
+ - [How your EOS Tokens move from Ethereum to the EOS blockchain](https://medium.com/@eosforumorg/how-your-eos-tokens-move-from-ethereum-to-the-eos-blockchain-dafd8448a375)
+ - Using MyEtherWallet (Trezor, Ledger Nano, and others)
+    - [MEW complete Guide by Sandwich](https://steemit.com/eos/@sandwich/contributing-to-eos-token-sale-with-myetherwallet-and-contract-inner-workings)
     - [YouTube Guide](https://www.youtube.com/watch?v=3mgRCta3K1k)
- 4. [Using MetaMask](https://www.youtube.com/watch?v=V2oU8pZgV2M)
- 5. Using Exodus Wallet
+ - [Using MetaMask](https://www.youtube.com/watch?v=V2oU8pZgV2M)
+ - Using Exodus Wallet
     - [Exodus Guide](https://support.exodus.io/article/65-i-ve-received-eos-tokens-in-exodus-how-do-i-register-them)
     - [Exodus YouTube Guide](https://www.youtube.com/watch?v=ahT-kV2A8io)
- 6. [Offline Private and Public Keypair Generator for registrering tokens](https://www.reddit.com/r/eos/comments/7v4r4d/eos_offline_private_and_public_key_pair_generator/)
+ - [Offline Private and Public Keypair Generator for registrering tokens](https://www.reddit.com/r/eos/comments/7v4r4d/eos_offline_private_and_public_key_pair_generator/)
+ - [Minimizing the cost of gas when claiming EOS using MyEtherWallet](https://steemit.com/eos/@koyn/minimizing-the-cost-of-gas-when-claiming-eos-using-myetherwallet)
+ - [How your EOS Tokens move from Ethereum to the EOS blockchain](https://medium.com/@eosforumorg/how-your-eos-tokens-move-from-ethereum-to-the-eos-blockchain-dafd8448a375)
+ - [Checking the current ETH contributions towards EOS using etherscan.io](https://steemit.com/eos/@koyn/checking-the-current-eth-contributions-towards-eos-using-etherscan-io)
 
 ## Block Producer info
 
