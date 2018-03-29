@@ -1,7 +1,7 @@
-<p align="center">
-#Awesome EOS 😎
-</p>
 
+<h1 align="center"><br>Awesome EOS 😎</h1>
+
+<h6 align="center"><br>A Curated list of awesome EOS create by EOS Nation BP.</h6>
 <p align="center">
 Curated list of awesome EOS.
 </p>
@@ -9,10 +9,10 @@ Curated list of awesome EOS.
 > AKA "The EOS Bible"
 </p>
 <p align="center">
-##You want to help the EOS community? APPLY FOR EOS NATION AMBASSADOR!
 </p>
+<h3 align="center"><br>You want to help the EOS community? Apply for EOS NATION AMBASSADOR!</h3>
 <p align="center">
-	<a href="https://steemit.com/eos/@eosnation/eos-nation-ambassador">EOS Nation Ambassador info</a>&nbsp;&nbsp;&nbsp;
+		<a href="https://steemit.com/eos/@eosnation/eos-nation-ambassador">EOS Nation Ambassador info</a>&nbsp;&nbsp;&nbsp;
 	</a>
 </p>
 
