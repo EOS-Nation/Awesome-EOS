@@ -167,6 +167,7 @@
  - [Nov 2017 - Interview with Brock Pierce and Brendan Blumer BlockShow Asia](https://www.youtube.com/watch?v=X6nC9QvgpQ0)
  - [Nov 2017 - EOS = Blockchain Real Estate: How the price of EOS tokens will increase over time](https://www.youtube.com/watch?v=svYvTkABDvo&t=16s)
  - [Nov 2017 - Brock Pierce: Disrupting The Disruptors - Where does Blockchain go from here?](https://www.youtube.com/watch?v=_NeywQeLNlI)
+ - [Nov 2017 - Article - Porter Stansberry puts 500,000 Eyes on EOS!](https://steemit.com/eos/@officialfuzzy/porter-stansberry-puts-500-000-eyes-on-eos)
  - [Nov 2017 - Convert your Dollars into Crypto now! - Brock Pierce with The Cointelegraph](https://www.youtube.com/watch?v=On6ZvL6chBQ)
  - [Dec 2017 - Brock Pierce: Why Bitcoin & Cryptocurrency Will Take Over & Will Change Your Life Forever](https://www.youtube.com/watch?v=m6ExinEBxCo&app=desktop)
  - [Dec 2017 - Governance - The Killer App? EOS - Blockchain Governance Operating System](https://steemit.com/eos/@worldclassplayer/governance-the-killer-app-eos-blockchain-governance-operating-system)
