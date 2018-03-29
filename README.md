@@ -1,11 +1,9 @@
 
 <h1 align="center"><br>Awesome EOS 😎</h1>
 
-<h6 align="center"><br>A Curated list of awesome EOS created by EOS Nation BP.</h6>
+<h5 align="center"><br>A Curated list of awesome EOS created by EOS Nation BP.</h5>
 <p align="center">
-> AKA "The EOS Bible"
-</p>
-<p align="center">
+<h7 align="center"><br>> AKA "The EOS Bible".</h7>
 </p>
 <h3 align="center"><br>You want to help the EOS community? Apply for EOS NATION AMBASSADOR!</h3>
 <p align="center">
