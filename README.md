@@ -1,10 +1,14 @@
 <p align="center">
 # Awesome EOS 😎
+</p>
 
+<p align="center">
 Curated list of awesome EOS.
-
+</p>
+<p align="center">
 > AKA "The EOS Bible"
-
+</p>
+<p align="center">
 ## You want to help the EOS community? APPLY FOR EOS NATION AMBASSADOR!
 [EOS Nation Ambassador info](https://steemit.com/eos/@eosnation/eos-nation-ambassador)
 </p>
