@@ -7,6 +7,12 @@ Curated list of awesome EOS.
 
 - [EOS Nation Ambassador info](https://steemit.com/eos/@eosnation/eos-nation-ambassador)
 
+## Contents
+
+- [Official](#official)
+- [The Block.One Team](#the-block.one-team)
+- [Community Projects](#Community-Projects)
+
 ## Official
 
 - [EOS Website](https://eos.io) / [Block.One Website](https://block.one) /  [EOS GitHub](https://github.com/eosio)
@@ -16,7 +22,7 @@ Curated list of awesome EOS.
 - [DPOS Whitepaper](https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper) / [DPOS Security](https://steemit.com/steem/@dantheman/response-to-cosmos-white-paper-s-claims-on-dpos-security)
 - EOS Distribution tracking [EOS Scan](https://eosscan.io/) / [EOS Chart](http://eoschart.com/) / [EOS Price](https://eosprice.io/)
 
-## The Team's BIO
+## The Block.One Team
 
 - CEO - Brendan Blumer [LinkedIn](https://www.linkedin.com/in/brendanblumer/) / [Twitter](https://twitter.com/BrendanBlumer?lang=en)
 - CTO - Daniel Larimer [LinkedIn](https://www.linkedin.com/in/daniel-larimer-0a367089/) / [Twitter](https://twitter.com/bytemaster7) / [Steemit Intro](https://steemit.com/introduceyourself/@dantheman/daniel-larimer--co-founder-of-bitshares-steemit#@carjhb/re-dantheman-daniel-larimer--co-founder-of-bitshares-steemit-20171009t095816036z) 
