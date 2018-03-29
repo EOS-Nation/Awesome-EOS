@@ -20,7 +20,7 @@ Curated list of awesome EOS.
 - [Steemit Accounts to follow](#steemit-accounts-to-follow)
 - [Token Registration Step by Step guides](#token-registration-step-by-step-guides)
 - [Block Producer info](#block-producer-info)
-- [Block Producer Candidates (BPC)](#block-producer-candidates-(BPC))
+- [Block Producer Candidates](#block-producer-candidates)
 
 ## Official
 
@@ -258,7 +258,7 @@ Curated list of awesome EOS.
 - [IPFS](ipfs.io)
   - [IPFS Alpha Demo](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
 
-## Block Producer Candidates (BPC)
+## Block Producer Candidates
 
 **Complete BP list** [Report #4 March 28](https://busy.org/@eosgo/block-producer-candidate-report-4-march-28-2018)
 - [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time
