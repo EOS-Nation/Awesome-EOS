@@ -3,7 +3,7 @@
 <h5 align="center"><br>A Curated list of awesome EOS created by EOS Nation BP</h5>
 <h6 align="center"><br>AKA "The EOS Bible"</h6>
 
-<h3 align="center"><br>You want to help the EOS community? Apply for EOS NATION AMBASSADOR!</h3>
+<h3 align="center"><br>You want to help the EOS community? Apply for EOS Nation Ambassador!</h3>
 <p align="center">
 		<a href="https://steemit.com/eos/@eosnation/eos-nation-ambassador">EOS Nation Ambassador info</a>&nbsp;&nbsp;&nbsp;
 	</a>
