@@ -13,6 +13,11 @@ Curated list of awesome EOS.
 [EOS Nation Ambassador info](https://steemit.com/eos/@eosnation/eos-nation-ambassador)
 </p>
 
+<p align="center">
+	<a href="https://steemit.com/eos/@eosnation/eos-nation-ambassador">EOS Nation Ambassador info</a>&nbsp;&nbsp;&nbsp;
+	</a>
+</p>
+
 ## Contents
 
 - [Official](#official)
