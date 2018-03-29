@@ -10,8 +10,8 @@ Curated list of awesome EOS.
 ## Contents
 
 - [Official](#official)
-- [The Block.One Team](#the-block.one-team)
-- [Community Projects](#Community-Projects)
+- [The Block.One Team](#the-block-one-team)
+- [Community Projects](#community-projects)
 
 ## Official
 
