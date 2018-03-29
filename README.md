@@ -245,6 +245,7 @@ Curated list of awesome EOS.
 
 ## Block Producer Candidates (BPC)
 
+**Complete BP list** [Report #4 March 28](https://busy.org/@eosgo/block-producer-candidate-report-4-march-28-2018)
 - [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time
 - [EOS New York](https://www.eosnewyork.io/) - Everything a block away
 - [EOS London](https://eos42.io/) - Empowering the Community
