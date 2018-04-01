@@ -206,7 +206,7 @@
  - [Beyond Bitcoin](https://www.youtube.com/channel/UCBZ9iWWNViVCips2ACk_ckQ)
  - [Clay Albright](https://www.youtube.com/channel/UCh-UuMD55GGfqN8flGYzGpg)
  - [The Awakenment](https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag)
- - [Yvan on Tech](https://www.youtube.com/user/LiljeqvistIvan)
+ - [Ivan on Tech](https://www.youtube.com/user/LiljeqvistIvan)
 
 ## Steemit Accounts to follow
 
