@@ -21,7 +21,7 @@
 - [EOS related Content](#eos-related-content)
 - [YouTube Channels](#youtube-channels)
 - [Steemit Accounts to follow](#steemit-accounts-to-follow)
-- [Wallets](#Wallets)
+- [Wallets](#wallets)
 - [Token Registration Step by Step guides](#token-registration-step-by-step-guides)
 - [Block Producer info](#block-producer-info)
 - [Block Producer Candidates](#block-producer-candidates)
