@@ -21,6 +21,7 @@
 - [EOS related Content](#eos-related-content)
 - [YouTube Channels](#youtube-channels)
 - [Steemit Accounts to follow](#steemit-accounts-to-follow)
+- [Wallets](#Wallets)
 - [Token Registration Step by Step guides](#token-registration-step-by-step-guides)
 - [Block Producer info](#block-producer-info)
 - [Block Producer Candidates](#block-producer-candidates)
@@ -53,6 +54,7 @@
 - [EOS Tracker](http://eostracker.io/)[ / Introduction post](https://steemit.com/eos/@kesarito/introducing-eos-tracker-real-time-viewer-for-eos-blockchain) - EOS Block Explorer
 - [EOS Projects](https://eosprojects.org/)[ / Introduction post](https://steemit.com/eos/@tokenika/introducing-eos-projects-a-directory-of-apps-sites-and-tools-built-by-eos-community) - Directory of Projects based around EOS
 - [Scatter](http://scatter-eos.com/) - Wallet/Browser extension
+- [EOS Net](https://eosnet.io/) - Global research project of block producer candidates to simulate, test and document best practices
 
 ## Community Forums
 
@@ -197,6 +199,27 @@
  - [Mar 2018 - FinLab AG and Block.one Announce $100 million Joint Venture](https://medium.com/@eosio/finlab-ag-and-block-one-36cf89e8d17a)
  - [Mar 2018 - Article - Blockchain Social Network in China, ONO, Announces Running for EOS Super Nodes](https://bitzamp.com/first-blockchain-social-network-in-china-ono-announces-running-for-eos-super-nodes/)
  - [Mar 2018 - New Example Currency Contract](https://medium.com/@bytemaster/eosio-new-example-currency-contract-6372c2e644dd)
+ - [Mar 2018 - Article - Whither the 6 Month Vote Lockup? by Thomas Cox](https://medium.com/@thomas.cox_39839/whither-the-6-month-vote-lockup-f683d31d8de2)
+ - [Mar 2018 - Why EOS?](https://steemit.com/eos/@clains/why-eos)
+ - [Mar 2018 - Why Does EOS.IO (EOS) Have A Year Long Token Distribution?](https://steemit.com/eos/@dallasrushing/why-does-eos-io-eos-have-a-year-long-token-distribution)
+ - [Mar 2018 - Article - EOS For Investors: Parallel Processing on the EOS Blockchain](https://steemit.com/eos/@hassananon/eos-for-investors-parallel-processing-on-the-eos-blockchain)
+ - [Mar 2018 - TECHY - EOS - Intro to Programming/Writting SmartContracts](https://www.youtube.com/watch?v=vwR3Sqquqc0)
+ - [Mar 2018 - Article and video - Deep dive into EOS](https://steemit.com/eos/@cryptoportfolio/deep-dive-into-eos)
+ - [Mar 2018 - BREAKING NEW GROUND!!! THE EOS REVIEW!!!](https://www.youtube.com/watch?v=Z6tvOI-YEDs&feature=share)
+ - [Mar 2018 - Is This The End For Ethereum (ETH)?](https://steemit.com/ethereum/@dallasrushing/is-this-the-end-for-ethereum-eth)
+ - [Mar 2018 - Article - Governance, Part2: Plutocracy is still bad BY VITALIK](https://vitalik.ca/general/2018/03/28/plutocracy.html)
+ - [Mar 2018 - Article - Dan's response to Vitalik - The Limits of Crypto-economic Governance](https://medium.com/@bytemaster/the-limits-of-crypto-economic-governance-9362b8d1d5aa)
+ - [Mar 2018 - New Example Currency Contract](https://medium.com/@bytemaster/eosio-new-example-currency-contract-6372c2e644dd)
+ - [Mar 2018 - How to buy EOS with STEEM on BINANCE](https://steemit.com/eos/@samstickkz/how-to-buy-eos-with-steem-on-binance)
+ - [Mar 2018 - EOS will be the most valuable real estate online](https://www.youtube.com/watch?v=XhShBan3xBc&feature=share)
+ - [Mar 2018 - ETHEOS presents EOS to University Students in Oslo](https://www.youtube.com/watch?v=1pKUjP1anjI&feature=share)
+ - [Mar 2018 - Ian Grigg and Vinay Gupta (Mattereum) on dispute resolution](https://www.youtube.com/watch?v=DCBsQM7O8W0&feature=share)
+ - [Mar 2018 - Article - ONO to run on EOS – The future of EOS (EOS) is bright!](https://cryptorecorder.com/2018/03/30/ono-to-run-on-eos-the-future-of-eos-eos-is-bright/)
+ - [Mar 2018 - ICO Alert Podcast #32: Everything EOS 1](https://www.youtube.com/watch?v=sG0KVnbMd7Y)
+ - [Apr 2018 - ICO Alert Podcast #33: Everything EOS 2](https://www.youtube.com/watch?v=TAMDbN181e8&feature=share)
+ - [Apr 2018 - EOS.IO Block Producer Candidate Rankings Released](https://steemit.com/eos/@dallasrushing/eos-io-block-producer-candidate-rankings-released-or-eos-nation)
+ - [Apr 2018 - Are EOS tokens worthless?](https://steemit.com/eos/@dallasrushing/are-eos-io-eos-tokens-worthless)
+ - [Apr 2018 - EOSRad.io Introducing eosDAC, EOS Nation and weekly Q&A with Thomas Cox](https://www.youtube.com/watch?v=9FwzT4oKsP4)
  
 
 ## YouTube Channels
@@ -242,8 +265,16 @@
 - **Tokenika** - [Steemit](https://steemit.com/@tokenika)
 - **Dallas Rushing** - [Steemit](https://steemit.com/@dallasrushing) 
 
+## Wallets
+
+ - [MetaMask Chrome extention](https://metamask.io/)
+ - [MyEtherWallet (also used for Trezor and Ledger Nano)](https://www.myetherwallet.com/)
+ - [Exodus Wallet](https://www.exodus.io/)
+ - [Paper Wallet Generator by EOSindex](https://eosindex.io/tools/eos-paper-wallet-generator)
+  
 ## Token Registration Step by Step guides
 
+ - [Token Purchase Agreement - Shedding some light on the EOS token Purchase Agreement](https://steemit.com/eos/@cob/shedding-some-light-on-the-eos-token-purchase-agreement)
  - [EOS Authority - EOS Balance and public key checking tool](https://www.eosauthority.com/)
  - [How your EOS Tokens move from Ethereum to the EOS blockchain](https://medium.com/@eosforumorg/how-your-eos-tokens-move-from-ethereum-to-the-eos-blockchain-dafd8448a375)
  - Using MyEtherWallet (Trezor, Ledger Nano, and others)
@@ -251,6 +282,7 @@
     - [YouTube Guide](https://www.youtube.com/watch?v=3mgRCta3K1k)
  - [Using MetaMask](https://www.youtube.com/watch?v=V2oU8pZgV2M)
  - Using Exodus Wallet
+    - [Exodus step by step](https://support.exodus.io/article/690-how-do-i-register-my-eos-address-inside-exodus)
     - [Exodus Guide](https://support.exodus.io/article/65-i-ve-received-eos-tokens-in-exodus-how-do-i-register-them)
     - [Exodus YouTube Guide](https://www.youtube.com/watch?v=ahT-kV2A8io)
  - [Offline Private and Public Keypair Generator for registrering tokens](https://www.reddit.com/r/eos/comments/7v4r4d/eos_offline_private_and_public_key_pair_generator/)
