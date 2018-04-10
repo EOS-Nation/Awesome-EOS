@@ -25,7 +25,7 @@
 - [Token Registration Step by Step guides](#token-registration-step-by-step-guides)
 - [Block Producer info](#block-producer-info)
 - [Block Producer Candidates](#block-producer-candidates)
-- [Testnets](#Testnets)
+- [Testnets](#testnets)
 
 ## Official
 
