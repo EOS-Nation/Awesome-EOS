@@ -78,6 +78,7 @@
   - [EOS General chat Russian](https://t.me/eos_ru)
   - [EOS General chat Vietnamese](http://t.me/eosvietnam)
   - [EOS General chat Deutsche](http://t.me/EOSDE)
+  - [EOS General chat Spanish](https://t.me/joinchat/GrBgI0bhs3ki_jSxv3k9zw)
 
 - **Meetup Channels**
   - [EOS Nation](https://t.me/EOSNation)
@@ -93,6 +94,7 @@
   - [EOS Community Test Network](https://t.me/CommunityTestnet)
   - [EOS Testnet Scholar Network](https://t.me/ScholarTestnet)
   - [EOS Game Developers](https://t.me/EosGameDevelopers)
+  - [EOS Developers Spanish](https://t.me/joinchat/GrBgI0x-xwphF6oihkrGHg)
 
 - **Discussion Channels**
   - [EOS Price](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw)
