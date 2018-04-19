@@ -226,8 +226,15 @@
  - [Apr 2018 - EOS.IO Block Producer Candidate Rankings Released](https://steemit.com/eos/@dallasrushing/eos-io-block-producer-candidate-rankings-released-or-eos-nation)
  - [Apr 2018 - Are EOS tokens worthless?](https://steemit.com/eos/@dallasrushing/are-eos-io-eos-tokens-worthless)
  - [Apr 2018 - EOSRad.io Introducing eosDAC, EOS Nation and weekly Q&A with Thomas Cox](https://www.youtube.com/watch?v=9FwzT4oKsP4)
- 
-
+ - [Apr 2018 - Introduction to Blockchain: Daniel Larimer at Virginia Tech](https://www.youtube.com/watch?v=sYAktmG1NuA)
+ - [Apr 2018 - EOSRad.io Full Episode 7 - Chintai, Erik Hoel, EOS New York, and Thomas Cox Q&A](https://www.youtube.com/watch?v=viJ7szXfBGQ)
+ - [Apr 2018 - EOSRad.io #8 - EOS Canada, Ivan on Tech & Sweden, Ke Xu from ONO, & Thomas Cox Q&A](https://www.youtube.com/watch?v=_GmMM5E22qA&t=1920s)
+ - [Apr 2018 - eosDAC Scam Alert | IRYO Healthcare | Beyond Bitcoin | EOS Talk](https://www.youtube.com/watch?v=3SYjPnrco7Y)
+ - [Apr 2018 - Article - ALTCOINS Indian exchange Zebpay adds EOS to its trading platform](https://ambcrypto.com/indian-exchange-zebpay-adds-eos-to-its-trading-platform/)
+ - [Apr 2018 - History of EOS 2017-2018 (Git Visualization)](https://www.youtube.com/watch?v=Kz_n2WUYMWU&feature=youtu.be)
+ - [Apr 2018 - Article - Binance Will Support EOS MainNet Token Swap](https://support.binance.com/hc/en-us/articles/360001649171-Binance-Will-Support-EOS-MainNet-Token-Swap)
+ - [Apr 2018 - Governance Talk w/ Thomas Cox](https://dlive.io/video/eosdallas/80fa333f-4361-11e8-9f5b-0242ac110002)
+ - [Apr 2018 - Governance Talk w/ Thomas Cox](https://dlive.io/video/eosdallas/80fa333f-4361-11e8-9f5b-0242ac110002)
 ## YouTube Channels
 
  - [EOS Go](https://www.youtube.com/channel/UC0fwWI2RBBtEIYIP6fH68XQ)
@@ -303,6 +310,8 @@
 - [Explaining the Role of an EOS Block Producer](https://www.youtube.com/watch?v=YLt5uexD9gg)
 - [IPFS](ipfs.io)
   - [IPFS Alpha Demo](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
+- [EOS BIOS Boot Launch Sequence - What BPs need to know](https://www.youtube.com/watch?v=AKaA3F0Nsz0) 
+- [Article - EOS Block Producer Illustrative Revenue Analysis - How will a Block Producer be rewarded?](https://steemit.com/eos/@eos-canada/eos-block-producer-illustrative-revenue-analysis-how-will-a-block-producer-be-rewarded)
 
 ## Block Producer Candidates
 
