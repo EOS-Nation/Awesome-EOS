@@ -240,7 +240,6 @@
 
  - [EOS Go](https://www.youtube.com/channel/UC0fwWI2RBBtEIYIP6fH68XQ)
  - [EOS Nation](https://www.youtube.com/channel/UCXgAY9DyooykrubRXw3xK1g)
- -
  - [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg)
  - [Beyond Bitcoin](https://www.youtube.com/channel/UCBZ9iWWNViVCips2ACk_ckQ)
  - [Clay Albright](https://www.youtube.com/channel/UCh-UuMD55GGfqN8flGYzGpg)
