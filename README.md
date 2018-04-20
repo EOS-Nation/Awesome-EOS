@@ -234,10 +234,13 @@
  - [Apr 2018 - History of EOS 2017-2018 (Git Visualization)](https://www.youtube.com/watch?v=Kz_n2WUYMWU&feature=youtu.be)
  - [Apr 2018 - Article - Binance Will Support EOS MainNet Token Swap](https://support.binance.com/hc/en-us/articles/360001649171-Binance-Will-Support-EOS-MainNet-Token-Swap)
  - [Apr 2018 - Governance Talk w/ Thomas Cox](https://dlive.io/video/eosdallas/80fa333f-4361-11e8-9f5b-0242ac110002)
+ - [Apr 2018 - Article - Why You Should Opt for EOS Over Ethereum (ETH)](https://hadeplatform.com/articles/2018/04/18/why-you-should-opt-for-eos-over-ethereum-eth)
 
 ## YouTube Channels
 
  - [EOS Go](https://www.youtube.com/channel/UC0fwWI2RBBtEIYIP6fH68XQ)
+ - [EOS Nation](https://www.youtube.com/channel/UCXgAY9DyooykrubRXw3xK1g)
+ -
  - [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg)
  - [Beyond Bitcoin](https://www.youtube.com/channel/UCBZ9iWWNViVCips2ACk_ckQ)
  - [Clay Albright](https://www.youtube.com/channel/UCh-UuMD55GGfqN8flGYzGpg)
