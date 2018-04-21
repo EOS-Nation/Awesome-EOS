@@ -212,7 +212,7 @@
 
 ## Block Producer Candidates
 
-**Complete BP list** [Report #7 April 18](https://busy.org/@eosgo/block-producer-candidate-report-7-april-18-2018)
+**Complete EOS Go BP list** [Report #7 April 18](https://busy.org/@eosgo/block-producer-candidate-report-7-april-18-2018)
 - [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time
 - [EOS New York](https://www.eosnewyork.io/) - Everything a block away
 - [EOS London](https://eos42.io/) - Empowering the Community
