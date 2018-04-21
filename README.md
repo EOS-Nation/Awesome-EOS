@@ -27,6 +27,7 @@
 - [Testnets](#testnets)
 - [EOS related Content](#eos-related-content)
 - [Latest EOS Content](#latest-eos-content)
+- [Back to top of page](#contents)
 
 ## Official
 
