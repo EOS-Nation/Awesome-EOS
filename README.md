@@ -27,7 +27,7 @@
 - [Testnets](#testnets)
 - [EOS related Content](#eos-related-content)
 - [Latest EOS Content](#latest-eos-content)
-- [Back to top of page](#contents)
+
 
 ## Official
 
@@ -345,4 +345,5 @@
  - [Apr 2018 - Article - Why You Should Opt for EOS Over Ethereum (ETH)](https://hadeplatform.com/articles/2018/04/18/why-you-should-opt-for-eos-over-ethereum-eth)
  
  ## Latest EOS Content
- 
+ - Look right above this title for the latest EOS content or click on the link below to go back to content table at the top of page
+ - [Back to top of page](#contents)
