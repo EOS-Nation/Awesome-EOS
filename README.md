@@ -13,7 +13,7 @@
 ## Contents
 
 - [Official](#official)
-- [Block.One](#Block.One)
+- [Block.One](#block.one)
 - [Community Projects](#community-projects)
 - [Community Forums](#community-forums)
 - [EOS Telegram Channels](#eos-telegram-channels)
