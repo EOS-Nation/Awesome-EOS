@@ -343,7 +343,8 @@
  - [Apr 2018 - Article - Binance Will Support EOS MainNet Token Swap](https://support.binance.com/hc/en-us/articles/360001649171-Binance-Will-Support-EOS-MainNet-Token-Swap)
  - [Apr 2018 - Governance Talk w/ Thomas Cox](https://dlive.io/video/eosdallas/80fa333f-4361-11e8-9f5b-0242ac110002)
  - [Apr 2018 - Article - Why You Should Opt for EOS Over Ethereum (ETH)](https://hadeplatform.com/articles/2018/04/18/why-you-should-opt-for-eos-over-ethereum-eth)
-
+ - [Apr 2018 - Article - Why EOS over Ethereum for Insights Network](https://medium.com/@InsightsNetwork/why-eos-over-ethereum-for-insights-network-7521aa4f7076)
+ 
  ## Latest EOS Content
  - Look right above this title for the latest EOS content or click on the link below to go back to content table at the top of page
  - [Back to top of page](#contents)
