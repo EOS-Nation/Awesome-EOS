@@ -13,7 +13,7 @@
 ## Contents
 
 - [Official](#official)
-- [Block.One](#block-.one)
+- [Block.One](#block-one)
 - [Community Projects](#community-projects)
 - [Community Forums](#community-forums)
 - [EOS Telegram Channels](#eos-telegram-channels)
@@ -38,7 +38,7 @@
 - [Careers at Block One](http://careers.block.one/)
 - [Register for Hackathon](https://eoshackathon.io/)
 
-## Block.One
+## Block One
 
 - CEO - Brendan Blumer - [LinkedIn](https://www.linkedin.com/in/brendanblumer/) / [Twitter](https://twitter.com/BrendanBlumer?lang=en)
 - CTO - Daniel Larimer - [LinkedIn](https://www.linkedin.com/in/daniel-larimer-0a367089/) / [Twitter](https://twitter.com/bytemaster7) / [Steemit Intro](https://steemit.com/introduceyourself/@dantheman/daniel-larimer--co-founder-of-bitshares-steemit#@carjhb/re-dantheman-daniel-larimer--co-founder-of-bitshares-steemit-20171009t095816036z) / [Historical facts](https://steemit.com/eosio/@xeroc/historical-facts-about-daniel-larimer-and-his-contributions-to-the-blockchain-industry) / [Mission and Philosophy](https://steemit.com/philosophy/@dantheman/why-do-we-fight-to-change-the-world#@splendorhub/re-dantheman-why-do-we-fight-to-change-the-world) / [Reading list](http://bytemaster.github.io/article/2015/01/10/Recommended-Reading/)
