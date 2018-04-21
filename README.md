@@ -18,7 +18,6 @@
 - [Community Forums](#community-forums)
 - [EOS Telegram Channels](#eos-telegram-channels)
 - [Meetups](#meetups)
-- [EOS related Content](#eos-related-content)
 - [YouTube Channels](#youtube-channels)
 - [Steemit Accounts to follow](#steemit-accounts-to-follow)
 - [Wallets](#wallets)
@@ -26,6 +25,8 @@
 - [Block Producer info](#block-producer-info)
 - [Block Producer Candidates](#block-producer-candidates)
 - [Testnets](#testnets)
+- [EOS related Content](#eos-related-content)
+- [Latest EOS Content](#latest-eos-content)
 
 ## Official
 
