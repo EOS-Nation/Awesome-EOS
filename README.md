@@ -83,7 +83,7 @@
   - [EOS General chat Spanish](https://t.me/joinchat/GrBgI0bhs3ki_jSxv3k9zw)
 
 - **Meetup Channels**
-  - [EOS Nation](https://t.me/EOSNation)
+  - [EOS Ottawa/Calgary/Sherbrooke](https://t.me/EOSNation)
   - [EOS Toronto/Waterloo](https://t.me/eosto)
   - [EOS New York](https://t.me/joinchat/GmULkkp7EyiWjur4TOT9Kg)
   - [EOS London](https://t.me/EOSLondon)
@@ -117,7 +117,9 @@
 
 - North America
   - Canada
-    - [EOS Nation](https://www.meetup.com/EOS-Nation) (Canada)
+    - [EOS Nation - Ottawa](https://www.meetup.com/EOS-Nation-Ottawa)
+    - [EOS Nation - Calgary](https://www.meetup.com/EOS-Nation-Calgary)
+    - [EOS Nation - Sherbrooke](https://www.meetup.com/EOS-Nation-Sherbrooke)
     - [EOS Québec](https://www.meetup.com/EOS-Quebec/)
     - [EOS Calgary](https://www.meetup.com/EOS_Calgary/)
     - [EOS Toronto](https://www.meetup.com/EOS-Toronto)
