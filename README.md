@@ -60,6 +60,7 @@
 - [EOS Projects](https://eosprojects.org/)[ / Introduction post](https://steemit.com/eos/@tokenika/introducing-eos-projects-a-directory-of-apps-sites-and-tools-built-by-eos-community) - Directory of Projects based around EOS
 - [Scatter](http://scatter-eos.com/) - Wallet/Browser extension
 - [EOS Net](https://eosnet.io/) - Global research project of block producer candidates to simulate, test and document best practices
+- [Eosio.SG Testnet](https://github.com/eosiosg/testnet_monitor) - Eosio.SG testnet monitor
 
 ## Community Forums
 
