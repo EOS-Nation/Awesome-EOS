@@ -21,6 +21,7 @@
 - [YouTube Channels](#youtube-channels)
 - [Steemit Accounts to follow](#steemit-accounts-to-follow)
 - [Wallets](#wallets)
+- [Presentations](#presentations)
 - [Token Registration Step by Step guides](#token-registration-step-by-step-guides)
 - [Block Producer info](#block-producer-info)
 - [Block Producer Candidates](#block-producer-candidates)
@@ -61,6 +62,7 @@
 - [Scatter](http://scatter-eos.com/) - Wallet/Browser extension
 - [EOS Net](https://eosnet.io/) - Global research project of block producer candidates to simulate, test and document best practices
 - [Eosio.SG Testnet](https://github.com/eosiosg/testnet_monitor) - Eosio.SG testnet monitor
+- [Chintai](https://www.chintai-eos.io/) - Token Leasing Delegation Marketplace for EOS.IO
 
 ## Community Forums
 
@@ -187,6 +189,10 @@
  - [Exodus Wallet](https://www.exodus.io/)
  - [Paper Wallet Generator by EOSindex](https://eosindex.io/tools/eos-paper-wallet-generator)
   
+## Presentations
+
+- [Chintai - Token Leasing Delegation Marketplace for EOS.IO](https://docs.google.com/presentation/d/11kKQMPOzwQG-XKi4Dcg0Lk-oqE0HKKj0kkn57h_Kqps/edit?usp=sharing)
+
 ## Token Registration Step by Step guides
 
  - [Token Purchase Agreement - Shedding some light on the EOS token Purchase Agreement](https://steemit.com/eos/@cob/shedding-some-light-on-the-eos-token-purchase-agreement)
