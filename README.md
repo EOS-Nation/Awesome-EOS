@@ -248,6 +248,8 @@
 - [How to start Testnet on Dawn 3 release](https://busy.org/@eluzgin/how-to-start-testnet-on-dawn-3-release)
 - [How to join Arrowhead Testnet for BP candidates](https://busy.org/@eluzgin/how-to-join-arrowhead-testnet-for-bp-candidates)
 - [How to start a Dawn3 testnetwork and add producers using eosio.bios](https://steemit.com/eos/@cryptolions/how-to-start-a-dawn3-testnetwork-and-add-producers-using-eosio-bios)
+- [How to Host Your IPFS Files Online Forever](https://medium.com/@merunasgrincalaitis/how-to-host-your-ipfs-files-online-forever-f0c56b9b5398)
+- [Using SSL with EOS.IO nodes](https://steemit.com/eos/@eosrio/using-ssl-with-eos-io-nodes)
 
 ## EOS Related Content
 
