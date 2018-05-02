@@ -224,6 +224,7 @@
 ## Block Producer Candidates
 
 **Complete EOS Go BP list** [Report #7 April 18](https://busy.org/@eosgo/block-producer-candidate-report-7-april-18-2018)
+- [Block Producer Discussion](https://forums.eosgo.io/categories/block-producer-discussion)
 - [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time
 - [EOS New York](https://www.eosnewyork.io/) - Everything a block away
 - [EOS London](https://eos42.io/) - Empowering the Community
@@ -344,6 +345,9 @@
  - [Mar 2018 - Article - ONO to run on EOS – The future of EOS (EOS) is bright!](https://cryptorecorder.com/2018/03/30/ono-to-run-on-eos-the-future-of-eos-eos-is-bright/)
  - [Mar 2018 - ICO Alert Podcast #32: Everything EOS 1](https://www.youtube.com/watch?v=sG0KVnbMd7Y)
  - [Apr 2018 - ICO Alert Podcast #33: Everything EOS 2](https://www.youtube.com/watch?v=TAMDbN181e8&feature=share)
+ - [Apr 2018 - ICO Alert Podcast: Everything EOS 3](https://www.youtube.com/watch?v=p5L_mWF9Dtk)
+ - [Apr 2018 - ICO Alert Podcast: Everything EOS 4](https://www.youtube.com/watch?v=eety0ZMakuk)
+ - [Apr 2018 - Everything EOS Podcast: Block Producer Controversy (Ep. 5)](https://www.youtube.com/watch?v=cuRsuh0fBCA)
  - [Apr 2018 - EOS.IO Block Producer Candidate Rankings Released](https://steemit.com/eos/@dallasrushing/eos-io-block-producer-candidate-rankings-released-or-eos-nation)
  - [Apr 2018 - Are EOS tokens worthless?](https://steemit.com/eos/@dallasrushing/are-eos-io-eos-tokens-worthless)
  - [Apr 2018 - EOSRad.io Introducing eosDAC, EOS Nation and weekly Q&A with Thomas Cox](https://www.youtube.com/watch?v=9FwzT4oKsP4)
@@ -357,6 +361,21 @@
  - [Apr 2018 - Governance Talk w/ Thomas Cox](https://dlive.io/video/eosdallas/80fa333f-4361-11e8-9f5b-0242ac110002)
  - [Apr 2018 - Article - Why You Should Opt for EOS Over Ethereum (ETH)](https://hadeplatform.com/articles/2018/04/18/why-you-should-opt-for-eos-over-ethereum-eth)
  - [Apr 2018 - Article - Why EOS over Ethereum for Insights Network](https://medium.com/@InsightsNetwork/why-eos-over-ethereum-for-insights-network-7521aa4f7076)
+ - [Apr 2018 - Article - Why 30 Stake-Weighted Approval Votes for EOSIO?](https://medium.com/@thomas.cox_39839/why-30-stake-weighted-approval-votes-for-eosio-1402b994bf20)
+ - [Apr 2018 - Article - Through diversity, strength emerges](https://steemit.com/cryptocurrencies/@eosnation/through-diversity-strength-emerges)
+ - [Apr 2018 - Article - Why EOS Nation chose to go the self-funded route](https://steemit.com/eos/@eosnation/why-eos-nation-chose-to-go-the-self-funded-route)
+ - [Apr 2018 - EOS Blockchain Launch - Could We See Multiple Chains?](https://www.youtube.com/watch?v=vzBbwigtZdk)
+ - [Apr 2018 - What the EOS Launch May Look Like - #1](https://www.youtube.com/watch?v=j5xHBfOsU2I)
+ - [Apr 2018 - EOSIO Developer Update: January 13 in Seoul](https://www.youtube.com/watch?v=GGoedQ5MGhU&feature=share)
+ - [Apr 2018 - EOSRad.io #9 - Tokenika, EOS Asia, EOS Dublin, Thomas Cox Q&A](https://www.youtube.com/watch?v=tAnXSXBT06E)
+ - [Apr 2018 - EOSindex.io | DApps | Tokens4Tweets | EOS talk](https://www.youtube.com/watch?v=SAxtwst8XVk)
+ - [Apr 2018 - EOS Mini Series - Part 1 - Why Do We Love It So Much?](https://www.youtube.com/watch?v=udlt7EIIt5w)
+ - [Apr 2018 - EOS Mini Series - Part 2 - What Is The Purpose Of EOS?](https://www.youtube.com/watch?v=Cnz8Vspwe84)
+ - [Apr 2018 - EOS Mini Series - Part 3 - Hacks, Mistakes and Block Producers](https://www.youtube.com/watch?v=O7dGzwSszeU)
+ - [Apr 2018 - EOS Mini Series - Part 4 - Free Transactions And The Benefits Of Delegated Proof Of Stake](https://www.youtube.com/watch?v=LP6rUNCqnqM)
+ - [Apr 2018 - EOS Mini Series - Part 5 - What Gives The EOS Token Value?](https://www.youtube.com/watch?v=AELtSxRR370)
+ - [Apr 2018 - EOS Mini Series - Part 6 - The Potential Danger Zones Of EOS](https://www.youtube.com/watch?v=5YGOLQo9gH8)
+ - [Apr 2018 - EOS Mini Series - Part 7 - WTF? $1B Token Sale With No Rights or Obligations?](https://www.youtube.com/watch?v=FKqE0P8Eefs)
  
  ## Latest EOS Content
  - Look right above this title for the latest EOS content or click on the link below to go back to content table at the top of page
