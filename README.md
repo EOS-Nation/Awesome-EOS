@@ -1,5 +1,5 @@
 
-<h1 align="center"><br>The EOS Bible 😎</h1>
+<h1 align="center"><br>EOS Awesome 😎</h1>
 <h5 align="center"><br>A Curated list of awesome EOS created by EOS Nation BP</h5>
 
 <h3 align="center"><br>You want to help the EOS community? Apply for EOS Nation Ambassador!</h3>
