@@ -28,6 +28,12 @@
 - [EOS related Content](#eos-related-content)
 - [Latest EOS Content](#latest-eos-content)
 
+## Why do we Need EOS?
+
+- [The 3rd Industrial Revolution - A Radical New Sharing Economy](https://www.youtube.com/watch?v=QX3M8Ka9vUA)
+- [Why Blockchain?](https://www.youtube.com/watch?v=8dbdS87RI3E&t=17s)
+- [Why EOS?](https://www.youtube.com/watch?v=3kqkTYqTvDA)
+- [EOS For Business](https://www.youtube.com/watch?v=4giyoZnuKPU&t=1s)
 
 ## Official
 
@@ -378,6 +384,31 @@
  - [Apr 2018 - EOS Mini Series - Part 7 - WTF? $1B Token Sale With No Rights or Obligations?](https://www.youtube.com/watch?v=FKqE0P8Eefs)
  - [May 2018 - Can EOS go to $1,000? Why EOS is the Corporation, Capitalist and Fiat killer!](https://www.youtube.com/watch?v=COkrNscAiBI)
  - [May 2018 - EOS Interplanatary file system will change the world](https://www.youtube.com/watch?v=tMzFufyXAAI&feature=share)
+ - [May 2018 - Article - eosio block producers elections are coming](https://steemit.com/eos/@stuardo/eosio-block-producers-elections-are-coming)
+ - [May 2018 - What is RAM Trading on EOS?](https://www.youtube.com/watch?v=OVYg0q9E2kI)
+ - [May 2018 - EOS Wallet Coming. Dawn 4.0](https://www.youtube.com/watch?v=mjUJamPF17E)
+ - [May 2018 - EOS Future Ecosystem - How to research like a professional VC?](https://www.youtube.com/watch?v=G5cub4ERywU)
+ - [May 2018 - Lab Ledger - New Airdrop on EOS - May 21 snapshot](https://www.youtube.com/watch?v=GViE1d50fP8)
+ - [May 2018 - EOS - Is Block.one walking away? Why is EOS falling?](https://www.youtube.com/watch?v=duHbWs6twaE)
+ - [Mai 2018 - Article - Block Producers can potentially be zero cost to the network](https://steemit.com/eos/@eosnation/block-producers-can-potentially-be-zero-cost-to-the-network)
+ - [Mai 2018 - Article - DPOS BFT— Pipelined Byzantine Fault Tolerance](https://medium.com/eosio/dpos-bft-pipelined-byzantine-fault-tolerance-8a0634a270ba)
+ - [May 2018 - Article - Introducing EOSIO Dawn 4.0](https://medium.com/@bytemaster/introducing-eosio-dawn-4-0-f738c552879)
+ - [May 2018 - EOS Dawn 4.0 and What's with all the EOS haters yo!?](https://www.youtube.com/watch?v=AvSe4JlWmlo)
+ - [May 2018 - Article - Introducing EOSIO Dawn 4.0](https://medium.com/eosio/eosio-dawn-4-0-release-b25661a49ac2)
+ - [May 2018 - EOSRad.io #11 - EOS BlockSmith, EOS Nairobi, OracleChain, & Arbitration w/ Thomas Cox](https://www.youtube.com/watch?v=M4qmlaT2pJU&t=3026s)
+ - [May 2018 - EOSRad.io #12 - EOS Tribe, EOS SOCAL, EOSUnion, & BP Panel #2 w/ Thomas Cox](https://www.youtube.com/watch?v=ruE5QkMRy9E)
+ - [May 2018 - EOSIO default Block Producer pay](https://www.youtube.com/watch?v=vqVOqq__De0&feature=youtu.be)
+ - [May 2018 - EOS blockchain ending world suffering!](https://www.youtube.com/watch?v=QXNsLAPbSts)
+ - [May 2018 - EOS Nation Speaks](https://www.youtube.com/watch?v=MW9JL1l7IuA)
+ - [May 2018 - Interview with Ross Dold of EOSphere: Australia's EOS Block Producer Candidate](https://www.youtube.com/watch?v=JQcbP1Jr8jQ)
+ - [May 2018 - Why EOS Will ROCK The Markets In 2018 with Jeff Berwick](https://www.youtube.com/watch?v=olrn9_XH4PI)
+ - [May 2018 - Article - EOS Nation Roadmap on Values, Community Project Timeline, Finances & Transparency.](https://steemit.com/eos/@eosnation/eos-nation-roadmap-on-values-community-project-timeline-finances-and-transparency)
+ - [May 2018 - Dan Larimer (EOS) Trolls Cardano (ADA) & Reveals A Future DAPP? ](https://www.youtube.com/watch?v=jx8SI2e06EY&t=2s)
+ - [May 2018 - How To Protect Your Crypto Assets with Stephane Bisson of EOS Nation](https://steemit.com/eos/@dallasrushing/how-to-protect-your-crypto-assets-with-stephane-bisson-of-eos-nation)
+
+ 
+ 
+ 
  
  ## Latest EOS Content
  - Look right above this title for the latest EOS content or click on the link below to go back to content table at the top of page
