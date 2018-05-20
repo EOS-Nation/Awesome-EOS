@@ -274,6 +274,7 @@
  - [Feb 2016 - Brock Pierce on Protocol, Scalability, Use Cases and the Future](https://www.youtube.com/watch?v=BdgUxn14Kvs)
  - [March 2016 - Brock Pierce: From Digital Goods to Digital Currency](https://www.youtube.com/watch?v=8HJvDzgfvh0&index=72&list=PUh-0T48JrvvmKDX41aWB_Vg)
  - [Oct 2016 - Ian Grigg now part of EOS: Ricardian Contracts and Digital Assets Prehistory](https://www.youtube.com/watch?v=wokvO1ptE1k)
+[top](#contents)
 
 ### EOS
 
@@ -407,10 +408,6 @@
  - [May 2018 - Dan Larimer (EOS) Trolls Cardano (ADA) & Reveals A Future DAPP? ](https://www.youtube.com/watch?v=jx8SI2e06EY&t=2s)
  - [May 2018 - How To Protect Your Crypto Assets with Stephane Bisson of EOS Nation](https://steemit.com/eos/@dallasrushing/how-to-protect-your-crypto-assets-with-stephane-bisson-of-eos-nation)
 
- 
- 
- 
- 
  ## Latest EOS Content
  - Look right above this title for the latest EOS content or click on the link below to go back to content table at the top of page
  - [Back to top of page](#contents)
