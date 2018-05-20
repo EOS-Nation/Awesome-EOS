@@ -49,7 +49,7 @@
 ## Block One
 
 - CEO - Brendan Blumer - [LinkedIn](https://www.linkedin.com/in/brendanblumer/) / [Twitter](https://twitter.com/BrendanBlumer?lang=en)
-- CTO - Daniel Larimer - [LinkedIn](https://www.linkedin.com/in/daniel-larimer-0a367089/) / [Twitter](https://twitter.com/bytemaster7) / [Steemit Intro](https://steemit.com/introduceyourself/@dantheman/daniel-larimer--co-founder-of-bitshares-steemit#@carjhb/re-dantheman-daniel-larimer--co-founder-of-bitshares-steemit-20171009t095816036z) / [Historical facts](https://steemit.com/eosio/@xeroc/historical-facts-about-daniel-larimer-and-his-contributions-to-the-blockchain-industry) / [Mission and Philosophy](https://steemit.com/philosophy/@dantheman/why-do-we-fight-to-change-the-world#@splendorhub/re-dantheman-why-do-we-fight-to-change-the-world) / [Reading list](http://bytemaster.github.io/article/2015/01/10/Recommended-Reading/)
+- CTO - Daniel Larimer - [LinkedIn](https://www.linkedin.com/in/daniel-larimer-0a367089/) / [Twitter](https://twitter.com/bytemaster7) / [Steemit Intro](https://steemit.com/introduceyourself/@dantheman/daniel-larimer--co-founder-of-bitshares-steemit#@carjhb/re-dantheman-daniel-larimer--co-founder-of-bitshares-steemit-20171009t095816036z) / [Historical facts](https://steemit.com/eosio/@xeroc/historical-facts-about-daniel-larimer-and-his-contributions-to-the-blockchain-industry) / [Mission and Philosophy](https://steemit.com/philosophy/@dantheman/why-do-we-fight-to-change-the-world#@splendorhub/re-dantheman-why-do-we-fight-to-change-the-world) / [Reading list](http://bytemaster.github.io/article/2015/01/10/Recommended-Reading/) / [BIO](https://www.steem.center/index.php?title=Dan_Larimer)
 - VP of Product - Thomas B. Cox - [LinkedIn](https://www.linkedin.com/in/thomasbcox/) / [Twitter](https://twitter.com/TBCox)
 - Advisor/Partner - Ian Grigg - [LinkedIn](https://www.linkedin.com/in/ian-grigg-0379/) / [Twitter](https://twitter.com/iang_fc?lang=en) / [BIO](https://mattereum.com/the-team/ian-grigg.html) 
 - Senior VP of Operations - David Moss - [LinkedIn](https://www.linkedin.com/in/david-moss-b598/) / [BIO](https://everipedia.org/wiki/david-moss-cto/)
@@ -201,6 +201,7 @@
 
 ## Token Registration Step by Step guides
 
+ - [MUST READ - How to Own Your EOS on Launch Day](https://busy.org/@eosgo/how-to-own-your-eos-on-launch-day)
  - [Token Purchase Agreement - Shedding some light on the EOS token Purchase Agreement](https://steemit.com/eos/@cob/shedding-some-light-on-the-eos-token-purchase-agreement)
  - [EOS Authority - EOS Balance and public key checking tool](https://www.eosauthority.com/)
  - [How your EOS Tokens move from Ethereum to the EOS blockchain](https://medium.com/@eosforumorg/how-your-eos-tokens-move-from-ethereum-to-the-eos-blockchain-dafd8448a375)
