@@ -68,6 +68,7 @@
 - [EOS Net](https://eosnet.io/) - Global research project of block producer candidates to simulate, test and document best practices
 - [Eosio.SG Testnet](https://github.com/eosiosg/testnet_monitor) - Eosio.SG testnet monitor
 - [Chintai](https://www.chintai-eos.io/) - Token Leasing Delegation Marketplace for EOS.IO
+- [Go to table of content](#contents)
 
 ## Community Forums
 
@@ -118,6 +119,7 @@
 - **EOS News**
   - [EOS Go Announcements (Telegram summary, etc.](https://t.me/eosgo_announcements)
   - [EOS Airdrops](https://t.me/EOS_Airdrop)
+  - [Go to table of content](#contents)
 
 ## Meetups
 
@@ -153,6 +155,7 @@
  - [The Awakenment](https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag)
  - [EOS Educational](https://www.youtube.com/channel/UClgHiX4W1yxyohrif0gEllA)
  - [Ivan on Tech](https://www.youtube.com/user/LiljeqvistIvan)
+ - [Go to table of content](#contents)
 
 ## Steemit Accounts to follow
 
@@ -186,7 +189,8 @@
   - [EOS with DPOS is immune to the GFW attack _because it is more decentralised_](https://steemit.com/eos/@iang/eos-with-dpos-is-immune-to-the-gfw-attack-because-it-is-more-decentralised)
 - **EOS Go** - [@eosgo](https://steemit.com/@eosgo)
 - **Tokenika** - [Steemit](https://steemit.com/@tokenika)
-- **Dallas Rushing** - [Steemit](https://steemit.com/@dallasrushing) 
+- **Dallas Rushing** - [Steemit](https://steemit.com/@dallasrushing)
+- [Go to table of content](#contents)
 
 ## Wallets
 
@@ -194,7 +198,7 @@
  - [MyEtherWallet (also used for Trezor and Ledger Nano)](https://www.myetherwallet.com/)
  - [Exodus Wallet](https://www.exodus.io/)
  - [Paper Wallet Generator by EOSindex](https://eosindex.io/tools/eos-paper-wallet-generator)
-  
+ - [Go to table of content](#contents) 
 ## Presentations
 
 - [Chintai - Token Leasing Delegation Marketplace for EOS.IO](https://docs.google.com/presentation/d/11kKQMPOzwQG-XKi4Dcg0Lk-oqE0HKKj0kkn57h_Kqps/edit?usp=sharing)
@@ -217,6 +221,7 @@
  - [Minimizing the cost of gas when claiming EOS using MyEtherWallet](https://steemit.com/eos/@koyn/minimizing-the-cost-of-gas-when-claiming-eos-using-myetherwallet)
  - [How your EOS Tokens move from Ethereum to the EOS blockchain](https://medium.com/@eosforumorg/how-your-eos-tokens-move-from-ethereum-to-the-eos-blockchain-dafd8448a375)
  - [Checking the current ETH contributions towards EOS using etherscan.io](https://steemit.com/eos/@koyn/checking-the-current-eth-contributions-towards-eos-using-etherscan-io)
+ - [Go to table of content](#contents)
 
 ## Block Producer info
 
@@ -227,6 +232,7 @@
   - [IPFS Alpha Demo](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
 - [EOS BIOS Boot Launch Sequence - What BPs need to know](https://www.youtube.com/watch?v=AKaA3F0Nsz0) 
 - [Article - EOS Block Producer Illustrative Revenue Analysis - How will a Block Producer be rewarded?](https://steemit.com/eos/@eos-canada/eos-block-producer-illustrative-revenue-analysis-how-will-a-block-producer-be-rewarded)
+- [Go to table of content](#contents)
 
 ## Block Producer Candidates
 
@@ -249,6 +255,7 @@
 - [EOS Nairobi](http://eosnairobi.io/)
 - [EOSoCal](https://eosocal.io)
 - [EOS Cannon](https://eoscannon.io/)
+- [Go to table of content](#contents)
 
 ## Testnets
 
@@ -258,6 +265,7 @@
 - [How to start a Dawn3 testnetwork and add producers using eosio.bios](https://steemit.com/eos/@cryptolions/how-to-start-a-dawn3-testnetwork-and-add-producers-using-eosio-bios)
 - [How to Host Your IPFS Files Online Forever](https://medium.com/@merunasgrincalaitis/how-to-host-your-ipfs-files-online-forever-f0c56b9b5398)
 - [Using SSL with EOS.IO nodes](https://steemit.com/eos/@eosrio/using-ssl-with-eos-io-nodes)
+- [Go to table of content](#contents)
 
 ## EOS Related Content
 
@@ -274,7 +282,7 @@
  - [Feb 2016 - Brock Pierce on Protocol, Scalability, Use Cases and the Future](https://www.youtube.com/watch?v=BdgUxn14Kvs)
  - [March 2016 - Brock Pierce: From Digital Goods to Digital Currency](https://www.youtube.com/watch?v=8HJvDzgfvh0&index=72&list=PUh-0T48JrvvmKDX41aWB_Vg)
  - [Oct 2016 - Ian Grigg now part of EOS: Ricardian Contracts and Digital Assets Prehistory](https://www.youtube.com/watch?v=wokvO1ptE1k)
- -  [top](#contents)
+ - [Go to table of content](#contents)
 
 ### EOS
 
