@@ -376,6 +376,8 @@
  - [Apr 2018 - EOS Mini Series - Part 5 - What Gives The EOS Token Value?](https://www.youtube.com/watch?v=AELtSxRR370)
  - [Apr 2018 - EOS Mini Series - Part 6 - The Potential Danger Zones Of EOS](https://www.youtube.com/watch?v=5YGOLQo9gH8)
  - [Apr 2018 - EOS Mini Series - Part 7 - WTF? $1B Token Sale With No Rights or Obligations?](https://www.youtube.com/watch?v=FKqE0P8Eefs)
+ - [May 2018 - Can EOS go to $1,000? Why EOS is the Corporation, Capitalist and Fiat killer!](https://www.youtube.com/watch?v=COkrNscAiBI)
+ - [May 2018 - EOS Interplanatary file system will change the world](https://www.youtube.com/watch?v=tMzFufyXAAI&feature=share)
  
  ## Latest EOS Content
  - Look right above this title for the latest EOS content or click on the link below to go back to content table at the top of page
