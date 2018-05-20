@@ -274,7 +274,7 @@
  - [Feb 2016 - Brock Pierce on Protocol, Scalability, Use Cases and the Future](https://www.youtube.com/watch?v=BdgUxn14Kvs)
  - [March 2016 - Brock Pierce: From Digital Goods to Digital Currency](https://www.youtube.com/watch?v=8HJvDzgfvh0&index=72&list=PUh-0T48JrvvmKDX41aWB_Vg)
  - [Oct 2016 - Ian Grigg now part of EOS: Ricardian Contracts and Digital Assets Prehistory](https://www.youtube.com/watch?v=wokvO1ptE1k)
-[top](#contents)
+ -[top](#contents)
 
 ### EOS
 
