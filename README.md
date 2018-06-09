@@ -255,6 +255,7 @@
 - [EOS Nairobi](http://eosnairobi.io/)
 - [EOSoCal](https://eosocal.io)
 - [EOS Cannon](https://eoscannon.io/)
+- [EOS Costa Rica](https://eoscostarica.io/)
 - [Go to table of content](#contents)
 
 ## Testnets
