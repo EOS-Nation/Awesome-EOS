@@ -416,6 +416,8 @@
  - [May 2018 - Article - EOS Nation Roadmap on Values, Community Project Timeline, Finances & Transparency.](https://steemit.com/eos/@eosnation/eos-nation-roadmap-on-values-community-project-timeline-finances-and-transparency)
  - [May 2018 - Dan Larimer (EOS) Trolls Cardano (ADA) & Reveals A Future DAPP? ](https://www.youtube.com/watch?v=jx8SI2e06EY&t=2s)
  - [May 2018 - How To Protect Your Crypto Assets with Stephane Bisson of EOS Nation](https://steemit.com/eos/@dallasrushing/how-to-protect-your-crypto-assets-with-stephane-bisson-of-eos-nation)
+ - [2018-08-8 - Article - Blockchain Startup Havven to Launch Stablecoin on EOS This Year](https://www.coindesk.com/blockchain-startup-havven-to-launch-stablecoin-on-eos-this-year/)
+ 
 
  ## Latest EOS Content
  - Look right above this title for the latest EOS content or click on the link below to go back to content table at the top of page
