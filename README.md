@@ -259,6 +259,7 @@
 - [EOSoCal](https://eosocal.io)
 - [EOS Cannon](https://eoscannon.io/)
 - [EOS Costa Rica](https://eoscostarica.io/)
+- [EOS IMPERA](https://eosimpera.io/)
 - [Go to table of content](#contents)
 
 ## Testnets
