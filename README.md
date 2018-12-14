@@ -99,6 +99,7 @@
   - [EOS Nairobi](https://t.me/eosnairobi)
   - [EOS Hong Kong](https://t.me/EOSHongKong)
   - [EOS Berlin](https://t.me/EOSBerlin)
+  - [EOS Paris](https://t.me/EOSParis)
     
 - **Developers**
   - [EOS Developers](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw)
@@ -144,6 +145,8 @@
   - UK
     - [EOS London](https://www.meetup.com/EOSLONDON/)
     - [EOS Berlin](https://www.meetup.com/eosioberlin/)
+  - France
+    - [EOS Paris](https://www.meetup.com/Meetup-EOS-Paris-France)
 
 ## YouTube Channels
 
