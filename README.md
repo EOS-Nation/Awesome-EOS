@@ -110,8 +110,8 @@
   
   
 - **EOS Testnets**
-  - [CryptoKylin Testnet EN](https://t.me/cryptokylin1en)**[ - Website](https://www.cryptokylin.io/)
-  - [Jungle Testnet EN](https://t.me/jungletestnet)**[ - Website](http://jungle.cryptolions.io/)
+  - [CryptoKylin Testnet EN](https://t.me/cryptokylin1en)[** - Website**](https://www.cryptokylin.io/)
+  - [Jungle Testnet EN](https://t.me/jungletestnet)[** - Website**](http://jungle.cryptolions.io/)
   - [EOS Initial Community Test Network](https://t.me/CommunityTestnet)
   
 - **Specific Discussion Channels**
