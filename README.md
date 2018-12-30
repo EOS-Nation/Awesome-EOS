@@ -110,8 +110,8 @@
   
   
 - **EOS Testnets**
-  - [CryptoKylin Testnet EN](https://t.me/cryptokylin1en)[  Website](https://www.cryptokylin.io/)
-  - [Jungle Testnet EN](https://t.me/jungletestnet)[  Website](http://jungle.cryptolions.io/)
+  - [CryptoKylin Testnet EN](https://t.me/cryptokylin1en)**[ - Website](https://www.cryptokylin.io/)
+  - [Jungle Testnet EN](https://t.me/jungletestnet)**[ - Website](http://jungle.cryptolions.io/)
   - [EOS Initial Community Test Network](https://t.me/CommunityTestnet)
   
 - **Specific Discussion Channels**
@@ -149,8 +149,6 @@
   - [WAX.io - Gaming chain](https://t.me/wax_io)
   - [Worbli - KYC/AML Financial chain](https://t.me/worblicommunity)
   - [Telos](https://t.me/HelloTelos)[  TestNet](https://t.me/TelosTestnet)
-  - [WAX.io - Gaming chain](https://t.me/wax_io)
-  - [WAX.io - Gaming chain](https://t.me/wax_io)
 
 - **DEX**
   - [Bancor Protocol](https://t.me/bancor)
