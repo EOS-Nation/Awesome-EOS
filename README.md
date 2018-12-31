@@ -84,8 +84,8 @@
 - **General Chats**
   - [EOS Main Telegram Group - English](https://t.me/EOSproject) / [Dan Larimer msgs only bot](https://t.me/daneos)
   - [Korean](https://t.me/EOSIOKorea) / [Koreos](https://t.me/koreosio) / [Deutsche](http://t.me/EOSDE) / [Arabic](https://t.me/EOS_Arabia)
-  - [Chinese](https://t.me/EOSCN) / [Spanish](https://t.me/joinchat/GrBgI0bhs3ki_jSxv3k9zw) / [Italian](https://t.me/EosITA)
-  - [French](https://t.me/EOSFrench) / [Russian](https://t.me/eos_ru) / [Vietnamese](http://t.me/eosvietnam)
+  - [Chinese](https://t.me/EOSCN) / [Spanish](https://t.me/joinchat/GrBgI0bhs3ki_jSxv3k9zw) / [Italian](https://t.me/EosITA) / [Vietnamese](http://t.me/eosvietnam)
+  - [French](https://t.me/EOSFrench) / [Russian](https://t.me/eos_ru) / [Russian Trading](https://t.me/eostraderu) / [Romanian](https://t.me/eosro)  / [Suomi (Finland)](https://t.me/eossuomi)
 
 - **EOS News**
   - [EOS Go Announcements (Telegram summary, etc.)](https://t.me/eosgo_news)
@@ -165,6 +165,14 @@
   - [WhaleEX](https://t.me/WhaleExGroup)
   - [DEXEOS](https://t.me/dexeos_io)
   - [EOSfinex](https://t.me/EOSfinex)
+  
+- **Wallets**
+  - [Scatter](https://t.me/Scatter)
+  - [EOS Lynx](https://t.me/eoslynx)
+  - [Infinito Wallet](https://t.me/infinitowallet)
+  - [imToken EOS](https://t.me/imTokenEOS_English)
+  - [EOS Nova](https://t.me/eosnovaio)
+  - [EOSpay Multisig Hardware Wallet](https://t.me/multisighardwarewallet)
   
 - **Meetup and Community Channels**
   - [Investing with a difference community](https://t.me/joinchat/JGZtMVHkj--vqY-dSZJ4NQ)
