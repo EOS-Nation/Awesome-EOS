@@ -82,17 +82,11 @@
 ## EOS Telegram Channels
 
 - **General Chats**
-  - [EOS General chat ENGLISH](https://t.me/EOSproject)
-  - [EOS General chat Dan's messages only](https://t.me/daneos)
+  - [Main chat English](https://t.me/EOSproject) / [Dan's messages only bot](https://t.me/daneos)
   - [Korean](https://t.me/EOSIOKorea) / [KOREOS.IO](https://t.me/koreosio)
-  - [Chinese](https://t.me/EOSCN)
-  - [EOS General chat French](https://t.me/EOSFrench)
-  - [EOS General chat Russian](https://t.me/eos_ru)
-  - [EOS General chat Vietnamese](http://t.me/eosvietnam)
-  - [EOS General chat Deutsche](http://t.me/EOSDE)
-  - [EOS General chat Arab](https://t.me/EOS_Arabia)
-  - [EOS General chat Italian](https://t.me/EosITA)
-  - [EOS General chat Spanish](https://t.me/joinchat/GrBgI0bhs3ki_jSxv3k9zw)
+  - [Chinese](https://t.me/EOSCN) / [Spanish](https://t.me/joinchat/GrBgI0bhs3ki_jSxv3k9zw)
+  - [French](https://t.me/EOSFrench) / [Russian](https://t.me/eos_ru) / [Vietnamese](http://t.me/eosvietnam)
+  - [Deutsche](http://t.me/EOSDE) / [Arabic](https://t.me/EOS_Arabia) / [Italian](https://t.me/EosITA)
   
 - **Developers**
   - [EOS Developers](https://t.me/joinchat/Esi1OkPktgcFeJ3Lmlcrqg)
