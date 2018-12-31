@@ -100,12 +100,10 @@
   - [EOS BP Infrastructure](https://t.me/BPInfrastructure)
   - [BP Ratings](https://t.me/bpratings)
   - [EOS BP Startup Business Best Practices](https://t.me/bpstartupbusiness)
-  - [EOS BP Infrastructure](https://t.me/BPInfrastructure)
   - [EOS BP Compliance News/Data/Research](https://t.me/contollinghand)
   
 - **Developers**
-  - [EOS Developers](https://t.me/joinchat/Esi1OkPktgcFeJ3Lmlcrqg)
-  - [EOS Developers Spanish](https://t.me/joinchat/GrBgI0x-xwphF6oihkrGHg)
+  - [EOS Developers](https://t.me/joinchat/Esi1OkPktgcFeJ3Lmlcrqg) / [Spanish](https://t.me/joinchat/GrBgI0x-xwphF6oihkrGHg)
   - [EOS Index](https://t.me/eosindex)
   - [EOS Game Developers](https://t.me/EosGameDevelopers)
   - [EOS Wallet Development](https://t.me/eoswalletdev)
