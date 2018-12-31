@@ -88,12 +88,11 @@
   - [French](https://t.me/EOSFrench) / [Russian](https://t.me/eos_ru) / [Vietnamese](http://t.me/eosvietnam)
 
 - **EOS News**
-  - [EOS Go Announcements (Telegram summary, etc.](https://t.me/eosgo_news)
+  - [EOS Go Announcements (Telegram summary, etc.)](https://t.me/eosgo_news)
   - [EOS Podcasts and Videos](https://t.me/EOS_Podcasts)
   - [EOS Announcements - the WIRE](https://t.me/eosLAUNCHbyTHEwire)
   - [EOS Airdrops](https://t.me/EOS_Airdrop)
   - [Airdrops for EOS](https://t.me/airdropsforeos)
-  - [Go to table of content](#contents)
 
 - **Block Producer Specific Channels**
   - [Complete List of BPs - Click Telegram icon beside each BP](https://bloks.io/)
@@ -178,7 +177,8 @@
   - [EOS Paris](https://t.me/EOSParis)  
   - [EOS London](https://t.me/EOSLondon)
   - [EOS Nairobi](https://t.me/eosnairobi)
-
+  
+  - [Go to table of content](#contents)
 ## Meetups
 
 - **Find an EOS Meetup** [MEETUPs](https://www.meetup.com/topics/EOS/)
