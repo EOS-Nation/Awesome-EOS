@@ -84,8 +84,8 @@
 - **General Chats**
   - [EOS General chat ENGLISH](https://t.me/EOSproject)
   - [EOS General chat Dan's messages only](https://t.me/daneos)
-  - [EOS General chat Korean](https://t.me/EOSIOKorea) / [KOREOS.IO](https://t.me/koreosio)
-  - [EOS General chat Chinese](https://t.me/EOSCN)
+  - [Korean](https://t.me/EOSIOKorea) / [KOREOS.IO](https://t.me/koreosio)
+  - [Chinese](https://t.me/EOSCN)
   - [EOS General chat French](https://t.me/EOSFrench)
   - [EOS General chat Russian](https://t.me/eos_ru)
   - [EOS General chat Vietnamese](http://t.me/eosvietnam)
@@ -94,45 +94,68 @@
   - [EOS General chat Italian](https://t.me/EosITA)
   - [EOS General chat Spanish](https://t.me/joinchat/GrBgI0bhs3ki_jSxv3k9zw)
   
-
 - **Developers**
   - [EOS Developers](https://t.me/joinchat/Esi1OkPktgcFeJ3Lmlcrqg)
+  - [EOS Developers Spanish](https://t.me/joinchat/GrBgI0x-xwphF6oihkrGHg)
   - [EOS Index](https://t.me/eosindex)
   - [EOS Game Developers](https://t.me/EosGameDevelopers)
-  - [EOS Developers Spanish](https://t.me/joinchat/GrBgI0x-xwphF6oihkrGHg)
   - [EOS Wallet Development](https://t.me/eoswalletdev)
   - [Lets Build EOS - Blockchain DEV Community](https://t.me/letsbuildeos)
-  - [EOS Game Developers](https://t.me/EosGameDevelopers)
   - [Reddit DEV](https://www.reddit.com/r/EOSDev/)
   - [EOS Canada & Dfuse.io API](https://t.me/EOSCanada)
-  - [EOS Block Producers](https://t.me/EOSPros)
-  - [EOS BP Infrastructure](https://t.me/BPInfrastructure)
+  - [EOS Non-Fungible Token (NFT)](https://t.me/eosionft)
+  - [EOS Studio - Graphical IDE for EOS DApp dev](https://t.me/eosstudio)
+  - [EOSdocs.io](https://t.me/eosdocs)
+  - [Scatter](https://t.me/Scatter)
   
-  
-- **EOS Testnets**
+- **EOS Network and Testnets**
+  - [EOS Mainnet Status](https://t.me/eosmainnetstatus)
   - [CryptoKylin Testnet EN](https://t.me/cryptokylin1en)[ - Website](https://www.cryptokylin.io/)
   - [Jungle Testnet EN](https://t.me/jungletestnet)[ - Website](http://jungle.cryptolions.io/)
   - [EOS Initial Community Test Network](https://t.me/CommunityTestnet)
+  - [Scholar Testnet ](https://t.me/ScholarTestnet)
   
-- **Specific Discussion Channels**
-  - [EOS Mainnet Status](https://t.me/eosmainnetstatus)
-  - [EOS Price](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw)
-  - [EOS Governance](https://t.me/EOSGov)
-  - [EOS Education](https://t.me/EOSEDU)
+- **EOS.io SideChains**
+  - [WAX.io - Gaming chain](https://t.me/wax_io)
+  - [Worbli - KYC/AML Financial chain](https://t.me/worblicommunity)
+  - [Telos](https://t.me/HelloTelos)[  TestNet](https://t.me/TelosTestnet)
+  
+- **Block Producer Specific Channels**
+  - [Complete List of BPs - Click Telegram icon beside each BP](https://bloks.io/)
   - [EOS Block Producers](https://t.me/EOSPros)
+  - [EOS BP Infrastructure](https://t.me/BPInfrastructure)
+  - [BP Ratings](https://t.me/bpratings)
+  - [EOS BP Startup Business Best Practices](https://t.me/bpstartupbusiness)
+  - [EOS BP Infrastructure](https://t.me/BPInfrastructure)
+  - [EOS BP Compliance News/Data/Research](https://t.me/contollinghand)
+  
+- **Governance**
+  - [EOS Governance](https://t.me/EOSGov)
+  - [EOS Arbitration Public Chat](https://t.me/eosarb)
+  - [EOS Core Arbitrator Nominations](https://t.me/EOSArbNominations)
+  - [EOS 911 - Compromised Private Keys](https://t.me/EOS911)
+  - [EOS Lost Private Key Group](https://t.me/joinchat/HB9mHkiAS4OgXE31UzsmeA)
+  - [EOS WPS - Worker Proposal System](https://t.me/eosio_wps)
+  - [EOS Alliance](https://t.me/eos_alliance)
+  - [EOS Voter Proxies](https://t.me/eosproxies)
+  - [EOS Watchdogs](https://t.me/eoswatchdogs)
+  - [Investing with a difference community](https://t.me/joinchat/JGZtMVHkj--vqY-dSZJ4NQ)
+
+- **EOS Price and Resources**
+  - [EOS Price](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw)
   - [EOS RAM](https://t.me/eosram)
   - [EOS REX](https://t.me/eosrex)
-  - [Inter-Blockchain Communication](https://t.me/interblockchain)
-  - [EOS WPS - Worker Proposal System](https://t.me/eosio_wps)
-  - [EOS URI - Universal Resource Inheritance](https://t.me/EOS_URI)
   - [Chintai](https://t.me/ChintaiEOS)
+  - [CPU Emergency](https://t.me/CPU911)
+  - [EOS URI - Universal Resource Inheritance](https://t.me/EOS_URI)
+  
+- **Specific Discussion Channels**
+  - [Inter-Blockchain Communication](https://t.me/interblockchain)
+  - [EOS Education](https://t.me/EOSEDU)
   - [EOS DAC Creators](https://t.me/EOSDAC)
   - [EOS Opportunities](https://t.me/eos_opportunities)
   - [EOS Design](https://t.me/EOSdesign)
-  - [Scatter](https://t.me/Scatter)
-  - [CPU Emergency](https://t.me/CPU911)
-  - [EOS Lost Private Key Group](https://t.me/joinchat/HB9mHkiAS4OgXE31UzsmeA)
-  - [EOS Alliance](https://t.me/eos_alliance)
+  - [EOS Marketing](https://t.me/EOSmarketing)
   - [EOS Jobs](https://t.me/eos_jobs)
   - [EOS Math](https://t.me/EOSMath)
   
@@ -141,18 +164,18 @@
   - [EOS Go Announcements (Telegram summary, etc.](https://t.me/eosgo_news)
   - [EOS Podcasts and Videos](https://t.me/EOS_Podcasts)
   - [EOS Announcements - the WIRE](https://t.me/eosLAUNCHbyTHEwire)
-  
   - [EOS Airdrops](https://t.me/EOS_Airdrop)
+  - [Airdrops for EOS](https://t.me/airdropsforeos)
   - [Go to table of content](#contents)
   
-- **SideChains**
-  - [WAX.io - Gaming chain](https://t.me/wax_io)
-  - [Worbli - KYC/AML Financial chain](https://t.me/worblicommunity)
-  - [Telos](https://t.me/HelloTelos)[  TestNet](https://t.me/TelosTestnet)
-
 - **DEX**
+  - [NewDex](https://t.me/NewDex)
   - [Bancor Protocol](https://t.me/bancor)
-
+  - [FINDEX](https://t.me/FINDEXchat)
+  - [WhaleEX](https://t.me/WhaleExGroup)
+  - [DEXEOS](https://t.me/dexeos_io)
+  - [EOSfinex](https://t.me/EOSfinex)
+  
 - **Meetup Channels**
   - [EOS Ottawa/Calgary/Sherbrooke](https://t.me/EOSNation)
   - [EOS Toronto/Waterloo](https://t.me/eosto)
