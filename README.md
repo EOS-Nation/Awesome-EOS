@@ -183,8 +183,8 @@
   - [EOS Paris](https://t.me/EOSParis)  
   - [EOS London](https://t.me/EOSLondon)
   - [EOS Nairobi](https://t.me/eosnairobi)
+ - [Go to table of content](#contents)
   
-  - [Go to table of content](#contents)
 ## Meetups
 
 - **Find an EOS Meetup** [MEETUPs](https://www.meetup.com/topics/EOS/)
