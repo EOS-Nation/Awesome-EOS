@@ -79,13 +79,30 @@
 - [EOS Talk](https://eostalk.io)
 - [Discord Channel](http://eos.social/)
 
-## EOS Telegram Channels
+## EOS Telegram Channels (Download [Bettergram)](https://bettergram.io/) 
 
 - **General Chats**
-  - [Main chat English](https://t.me/EOSproject) / [Dan's messages only bot](https://t.me/daneos)
+  - [EOS Main Telegram Group - English](https://t.me/EOSproject) / [Dan Larimer msgs only bot](https://t.me/daneos)
   - [Korean](https://t.me/EOSIOKorea) / [Koreos](https://t.me/koreosio) / [Deutsche](http://t.me/EOSDE) / [Arabic](https://t.me/EOS_Arabia)
   - [Chinese](https://t.me/EOSCN) / [Spanish](https://t.me/joinchat/GrBgI0bhs3ki_jSxv3k9zw) / [Italian](https://t.me/EosITA)
   - [French](https://t.me/EOSFrench) / [Russian](https://t.me/eos_ru) / [Vietnamese](http://t.me/eosvietnam)
+
+- **EOS News**
+  - [EOS Go Announcements (Telegram summary, etc.](https://t.me/eosgo_news)
+  - [EOS Podcasts and Videos](https://t.me/EOS_Podcasts)
+  - [EOS Announcements - the WIRE](https://t.me/eosLAUNCHbyTHEwire)
+  - [EOS Airdrops](https://t.me/EOS_Airdrop)
+  - [Airdrops for EOS](https://t.me/airdropsforeos)
+  - [Go to table of content](#contents)
+
+- **Block Producer Specific Channels**
+  - [Complete List of BPs - Click Telegram icon beside each BP](https://bloks.io/)
+  - [EOS Block Producers](https://t.me/EOSPros)
+  - [EOS BP Infrastructure](https://t.me/BPInfrastructure)
+  - [BP Ratings](https://t.me/bpratings)
+  - [EOS BP Startup Business Best Practices](https://t.me/bpstartupbusiness)
+  - [EOS BP Infrastructure](https://t.me/BPInfrastructure)
+  - [EOS BP Compliance News/Data/Research](https://t.me/contollinghand)
   
 - **Developers**
   - [EOS Developers](https://t.me/joinchat/Esi1OkPktgcFeJ3Lmlcrqg)
@@ -112,15 +129,8 @@
   - [WAX.io - Gaming chain](https://t.me/wax_io)
   - [Worbli - KYC/AML Financial chain](https://t.me/worblicommunity)
   - [Telos](https://t.me/HelloTelos)[  TestNet](https://t.me/TelosTestnet)
-  
-- **Block Producer Specific Channels**
-  - [Complete List of BPs - Click Telegram icon beside each BP](https://bloks.io/)
-  - [EOS Block Producers](https://t.me/EOSPros)
-  - [EOS BP Infrastructure](https://t.me/BPInfrastructure)
-  - [BP Ratings](https://t.me/bpratings)
-  - [EOS BP Startup Business Best Practices](https://t.me/bpstartupbusiness)
-  - [EOS BP Infrastructure](https://t.me/BPInfrastructure)
-  - [EOS BP Compliance News/Data/Research](https://t.me/contollinghand)
+  - [ONO EN](https://t.me/ONOUS) / [CN](https://t.me/ONOCN) / [RU](https://t.me/ONORU)
+  - [Everipedia](https://t.me/everipedia)
   
 - **Governance**
   - [EOS Governance](https://t.me/EOSGov)
@@ -132,8 +142,7 @@
   - [EOS Alliance](https://t.me/eos_alliance)
   - [EOS Voter Proxies](https://t.me/eosproxies)
   - [EOS Watchdogs](https://t.me/eoswatchdogs)
-  - [Investing with a difference community](https://t.me/joinchat/JGZtMVHkj--vqY-dSZJ4NQ)
-
+  
 - **EOS Price and Resources**
   - [EOS Price](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw)
   - [EOS RAM](https://t.me/eosram)
@@ -151,16 +160,7 @@
   - [EOS Marketing](https://t.me/EOSmarketing)
   - [EOS Jobs](https://t.me/eos_jobs)
   - [EOS Math](https://t.me/EOSMath)
-  
-                   
-- **EOS News**
-  - [EOS Go Announcements (Telegram summary, etc.](https://t.me/eosgo_news)
-  - [EOS Podcasts and Videos](https://t.me/EOS_Podcasts)
-  - [EOS Announcements - the WIRE](https://t.me/eosLAUNCHbyTHEwire)
-  - [EOS Airdrops](https://t.me/EOS_Airdrop)
-  - [Airdrops for EOS](https://t.me/airdropsforeos)
-  - [Go to table of content](#contents)
-  
+          
 - **DEX**
   - [NewDex](https://t.me/NewDex)
   - [Bancor Protocol](https://t.me/bancor)
@@ -169,7 +169,8 @@
   - [DEXEOS](https://t.me/dexeos_io)
   - [EOSfinex](https://t.me/EOSfinex)
   
-- **Meetup Channels**
+- **Meetup and Community Channels**
+  - [Investing with a difference community](https://t.me/joinchat/JGZtMVHkj--vqY-dSZJ4NQ)
   - [EOS Ottawa/Calgary/Sherbrooke](https://t.me/EOSNation)
   - [EOS Toronto/Waterloo](https://t.me/eosto)
   - [EOS Hong Kong](https://t.me/EOSHongKong)
