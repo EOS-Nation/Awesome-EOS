@@ -83,10 +83,9 @@
 
 - **General Chats**
   - [Main chat English](https://t.me/EOSproject) / [Dan's messages only bot](https://t.me/daneos)
-  - [Korean](https://t.me/EOSIOKorea) / [KOREOS.IO](https://t.me/koreosio)
-  - [Chinese](https://t.me/EOSCN) / [Spanish](https://t.me/joinchat/GrBgI0bhs3ki_jSxv3k9zw)
+  - [Korean](https://t.me/EOSIOKorea) / [Koreos](https://t.me/koreosio) / [Deutsche](http://t.me/EOSDE) / [Arabic](https://t.me/EOS_Arabia)
+  - [Chinese](https://t.me/EOSCN) / [Spanish](https://t.me/joinchat/GrBgI0bhs3ki_jSxv3k9zw) / [Italian](https://t.me/EosITA)
   - [French](https://t.me/EOSFrench) / [Russian](https://t.me/eos_ru) / [Vietnamese](http://t.me/eosvietnam)
-  - [Deutsche](http://t.me/EOSDE) / [Arabic](https://t.me/EOS_Arabia) / [Italian](https://t.me/EosITA)
   
 - **Developers**
   - [EOS Developers](https://t.me/joinchat/Esi1OkPktgcFeJ3Lmlcrqg)
