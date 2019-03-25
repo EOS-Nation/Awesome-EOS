@@ -309,7 +309,7 @@
 - [EOS New York](https://www.eosnewyork.io/) - Everything a block away
 - [EOS London](https://eos42.io/) - Empowering the Community
 - [eosDAC](http://eosdac.io/) - The Community-Owned EOS Block Producer
-- [EOSIO](http://eosio.se/) - Changing the World one Block at a time
+- [EOSIO](http://eosio.se/) 
 - [EOSYS](http://eosys.io/) - AT DAWN,  LOOK TO THE EAST
 - [SaltBlock](https://www.saltblock.io/home)
 - [EOS Shenzhen](https://eoshenzhen.io/) - Shenzhen is Asia's Silicon Valley
