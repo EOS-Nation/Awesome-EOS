@@ -189,7 +189,8 @@
 ## Fractal Governance
 
 - [Eden on EOS](https://edeneos.org/)
-  - [Eden Election Portal](https://genesis.eden.eoscommunity.org/election)
+  - [Election Portal](https://genesis.eden.eoscommunity.org/election)
+	- [Youtube Channel](https://www.youtube.com/channel/UCqVNhsG33s9qCCPNf7LdaMg)
 - [Go to table of content](#contents) 
   
 ## Meetups
