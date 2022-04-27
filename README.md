@@ -17,6 +17,7 @@
 - [Community Forums](#community-forums)
 - [EOS Telegram Channels](#eos-telegram-channels)
 - [Meetups](#meetups)
+- [Fractal Community](#fractal-community)
 - [YouTube Channels](#youtube-channels)
 - [Steemit Accounts to follow](#steemit-accounts-to-follow)
 - [Wallets](#wallets)
@@ -184,6 +185,16 @@
   - [EOS London](https://t.me/EOSLondon)
   - [EOS Nairobi](https://t.me/eosnairobi)
  - [Go to table of content](#contents)
+
+## Fractal Community
+
+- [Eden on EOS](https://edeneos.org/)
+  - [Election Portal](https://genesis.eden.eoscommunity.org/election)
+	- [Youtube Channel](https://www.youtube.com/channel/UCqVNhsG33s9qCCPNf7LdaMg)
+- [Fractally](https://fractally.com/)
+  - [Community Home](https://gofractally.com/feed)
+  - [Youtube Channel](https://www.youtube.com/channel/UCIA2Kq6IwEWJLXtI-hopfpA)
+- [Go to table of content](#contents) 
   
 ## Meetups
 
@@ -216,6 +227,7 @@
  - [EOS Go](https://www.youtube.com/channel/UC0fwWI2RBBtEIYIP6fH68XQ)
  - [EOS Nation](https://www.youtube.com/channel/UCXgAY9DyooykrubRXw3xK1g)
  - [EOS .radio](https://www.youtube.com/channel/UCSkVL53-3TAmWAocZDdGiIw) 
+ - [Helios](https://www.youtube.com/c/HeliosEOSIO)
  - [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg)
  - [Beyond Bitcoin](https://www.youtube.com/channel/UCBZ9iWWNViVCips2ACk_ckQ)
  - [Clay Albright](https://www.youtube.com/channel/UCh-UuMD55GGfqN8flGYzGpg)
