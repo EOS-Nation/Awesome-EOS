@@ -192,6 +192,7 @@
   - [Election Portal](https://genesis.eden.eoscommunity.org/election)
 	- [Youtube Channel](https://www.youtube.com/channel/UCqVNhsG33s9qCCPNf7LdaMg)
 - [Fractally](https://fractally.com/)
+  - [Youtube Channel](https://www.youtube.com/channel/UCIA2Kq6IwEWJLXtI-hopfpA)
 - [Go to table of content](#contents) 
   
 ## Meetups
