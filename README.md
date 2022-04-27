@@ -17,6 +17,7 @@
 - [Community Forums](#community-forums)
 - [EOS Telegram Channels](#eos-telegram-channels)
 - [Meetups](#meetups)
+- [Fractal Governance](#fractal-governance)
 - [YouTube Channels](#youtube-channels)
 - [Steemit Accounts to follow](#steemit-accounts-to-follow)
 - [Wallets](#wallets)
@@ -184,6 +185,11 @@
   - [EOS London](https://t.me/EOSLondon)
   - [EOS Nairobi](https://t.me/eosnairobi)
  - [Go to table of content](#contents)
+
+## Fractal Governance
+
+- [Eden on EOS](https://edeneos.org/)
+
   
 ## Meetups
 
